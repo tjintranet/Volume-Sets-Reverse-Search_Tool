@@ -82,7 +82,7 @@ function clearUploadedFile() {
     document.getElementById('bulk-summary').style.display = 'none';
     document.getElementById('bulk-results').innerHTML = '';
     document.getElementById('file-input').value = '';
-    document.getElementById('export-pdf-btn').style.display = 'none';
+    document.getElementById('export-section').style.display = 'none';
 }
 
 // File Processing
@@ -255,7 +255,7 @@ function showBulkSummary(results) {
     `;
     
     document.getElementById('bulk-summary').style.display = 'block';
-    document.getElementById('export-pdf-btn').style.display = 'inline-block';
+    document.getElementById('export-section').style.display = 'block';
 }
 
 function displayBulkResults(results) {
