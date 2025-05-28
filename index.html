@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Volume Sets Reverse Search Tool</title>
+    
+    <!-- Bootstrap CSS -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+    
+    <style>
+        .result-success {
+            background-color: var(--bs-success-bg-subtle);
+            border-color: var(--bs-success-border-subtle);
+            color: var(--bs-success-text);
+        }
+        .result-warning {
+            background-color: var(--bs-warning-bg-subtle);
+            border-color: var(--bs-warning-border-subtle);
+            color: var(--bs-warning-text);
+        }
+        .nav-tabs .nav-link.active {
+            background-color: var(--bs-primary);
+            color: white;
+            border-color: var(--bs-primary);
+        }
+        .bulk-result-card {
+            margin-bottom: 1rem;
+        }
+        .upload-area {
+            border: 2px dashed #dee2e6;
+            border-radius: 0.375rem;
+            padding: 2rem;
+            text-align: center;
+            transition: border-color 0.15s ease-in-out;
+        }
+        .upload-area:hover {
+            border-color: #0d6efd;
+        }
+        .upload-area.dragover {
+            border-color: #0d6efd;
+            background-color: rgba(13, 110, 253, 0.1);
+        }
+        .progress {
+            display: none;
+        }
+        .isbn-chip {
+            display: inline-block;
+            background-color: #f8f9fa;
+            border: 1px solid #dee2e6;
+            border-radius: 1rem;
+            padding: 0.25rem 0.75rem;
+            margin: 0.125rem;
+            font-size: 0.875rem;
+        }
+        .isbn-chip.found {
+            background-color: #d1e7dd;
+            border-color: #badbcc;
+            color: #0f5132;
+        }
+        .isbn-chip.not-found {
+            background-color: #f8d7da;
+            border-color: #f5c2c7;
+            color: #842029;
+        }
+    </style>
+</head>
+<body class="bg-light">
+    <div class="container py-4">
+        <div class="row justify-content-center">
+            <div class="col-12 col-lg-10">
+                <div class="card shadow">
+                    <div class="card-header bg-primary text-white">
+                        <h4 class="mb-0">Volume Sets Reverse Search Tool</h4>
+                    </div>
+                    <div class="card-body">
+                        <div class="mb-4">
+                            <label for="file-input" class="form-label">Upload DespatchReport Excel File:</label>
+                            <input type="file" class="form-control" id="file-input" accept=".xlsx,.xls">
+                            <div class="form-text">Upload your DespatchReport.xlsx file to automatically extract component ISBNs and find their volume sets</div>
+                            
+                            <div class="progress mt-3" id="upload-progress">
+                                <div class="progress-bar" role="progressbar" style="width: 0%"></div>
+                            </div>
+                        </div>
+
+                        <div id="bulk-summary" class="alert alert-secondary" style="display: none;">
+                            <div class="d-flex justify-content-between align-items-center">
+                                <div>
+                                    <h6 class="mb-2">Search Summary:</h6>
+                                    <div id="summary-content"></div>
+                                </div>
+                                <button class="btn btn-success btn-sm" id="export-pdf-btn" style="display: none;">
+                                    <i class="fas fa-file-pdf me-2"></i>Export PDF Report
+                                </button>
+                            </div>
+                        </div>
+
+                        <div id="bulk-results" class="mt-4"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bootstrap Bundle with Popper -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/js/bootstrap.bundle.min.js"></script>
+    <!-- SheetJS for Excel parsing -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+    <!-- PapaParse for CSV parsing -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
+    <!-- jsPDF for PDF generation -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+    <!-- jsPDF AutoTable plugin for tables -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf-autotable/3.5.31/jspdf.plugin.autotable.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
