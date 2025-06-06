@@ -63,6 +63,13 @@
     "volume_titles": "Enterprise Level Security 2 | Enterprise Level Security"
   },
   {
+    "set_isbn": "9780367536213",
+    "set_isbn_title": "The Routledge Handbook of Applied Linguistics Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9780367536237, 9780367536268",
+    "volume_titles": "Rout Hbk of Applied Linguistics Vol 2 | Rout Hbk of Applied Linguistics Vol 1"
+  },
+  {
     "set_isbn": "9780367565220",
     "set_isbn_title": "The British Publishing Industry in the 19th C 4 VOL SET",
     "volume_count": 4,
@@ -1099,6 +1106,27 @@
     "volume_titles": "Russian Emb Georgian Kings 1589-1605 - V2 | Russian Emb Georgian Kings 1589-1605 - V1"
   },
   {
+    "set_isbn": "9780700715299",
+    "set_isbn_title": "The Vendanta-Sutras Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9780415410540, 9780415410557",
+    "volume_titles": "The Vendanta-Sutras Vol 1 | The Vendanta-Sutras Vol 2"
+  },
+  {
+    "set_isbn": "9780700715404",
+    "set_isbn_title": "The Upanisads Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9780415409858, 9780415409865",
+    "volume_titles": "The Upanisads Vol 1 | The Upanisads Vol 2"
+  },
+  {
+    "set_isbn": "9780700715435",
+    "set_isbn_title": "The Zend Avesta Vol Set",
+    "volume_count": 3,
+    "associated_volumes": "9780415409957, 9780415409964, 9780415409971",
+    "volume_titles": "The Zend Avesta Vol 1 | The Zend Avesta Vol 2 | The Zend Avesta Vol 3"
+  },
+  {
     "set_isbn": "9780710311504",
     "set_isbn_title": "The Long Road to Baghdad - 2 VOLUME SET",
     "volume_count": 2,
@@ -1111,6 +1139,13 @@
     "volume_count": 2,
     "associated_volumes": "9780727759771, 9780727759788",
     "volume_titles": "From Sea to Shore - V1 | From Sea to Shore - V2"
+  },
+  {
+    "set_isbn": "9780754625001",
+    "set_isbn_title": "Law and Science Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781041011927, 9781041011934",
+    "volume_titles": "Law & Science Vol 1 | Law & Science Vol 2"
   },
   {
     "set_isbn": "9780754628323",
@@ -1274,6 +1309,13 @@
     "volume_titles": "Algal Biotechnology | Algal Biotechnology"
   },
   {
+    "set_isbn": "9781032128597",
+    "set_isbn_title": "Handbook of Bioethanol Fuels Vol Set",
+    "volume_count": 6,
+    "associated_volumes": "9781032128498, 9781032128559, 9781032128627, 9781032128672, 9781032128689, 9781032128696",
+    "volume_titles": "Feedstock-based Bioethanol Fuels. I. Non-Waste Feedstocks | Bioethanol Fuel Production Processes. II | Bioethanol Fuel Production Processes. I | Feedstock-based Bioethanol Fuels. II. Waste Feedstocks | Evaluation & Utilization of Bioethanol Fuels. II. | Evaluation & Utilization of Bioethanol Fuels. I."
+  },
+  {
     "set_isbn": "9781032201801",
     "set_isbn_title": "Flood Hbk Vol Set",
     "volume_count": 3,
@@ -1300,6 +1342,13 @@
     "volume_count": 3,
     "associated_volumes": "9781032220475, 9781032220499, 9781032220529",
     "volume_titles": "Polyester-Based Biocomposites | Vinyl Ester-Based Biocomposites | Epoxy-Based Biocomposites"
+  },
+  {
+    "set_isbn": "9781032222424",
+    "set_isbn_title": "Handbook of Systems Engineering Analysis Electro Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781041033851, 9781041035206",
+    "volume_titles": "Handbook of Systems Engineering Analysis Electro Vol 1 | Handbook of Systems Engineering Analysis Electro Vol 2"
   },
   {
     "set_isbn": "9781032232812",
@@ -1750,6 +1799,13 @@
     "volume_titles": "Anthropology of Cultural Transformation I | Anthropology of Cultural Transformation II"
   },
   {
+    "set_isbn": "9781032679020",
+    "set_isbn_title": "Anthropology of Cultural Transformation Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032678993, 9781032679013",
+    "volume_titles": "Anthropology of Cultural Transformation I | Anthropology of Cultural Transformation II"
+  },
+  {
     "set_isbn": "9781032693842",
     "set_isbn_title": "Nouns and Verbs in ChineseVOL SET",
     "volume_count": 2,
@@ -1867,6 +1923,13 @@
     "volume_count": 38,
     "associated_volumes": "9781032800202, 9781032800561, 9781032800943, 9781032803487, 9781032804149, 9781032806082, 9781032806525, 9781032807263, 9781032812045, 9781032812090, 9781032812373, 9781032813936, 9781032814193, 9781032814582, 9781032815466, 9781032816340, 9781032817132, 9781032819389, 9781032819617, 9781032834627, 9781032835266, 9781032841496, 9781032844428, 9781032844923, 9781032845500, 9781032845531, 9781032845555, 9781032846484, 9781032847115, 9781032847641, 9781032847962, 9781032848136, 9781032848570, 9781032848631, 9781032849003, 9781032849065, 9781032849348, 9781032849737",
     "volume_titles": "Capitalism the State & Industrial Relations | Industrial Relations | The Price of TUC Leadership | Masters & Journeymen | National Wages Policy in War & Peace | The British Worker Question | Ownership Control & Ideology | Living with Capitalism | Industrial Relations & Health Services | The Economic Analysis of Unions | The Policy-making Process | White-Collar Proletariat | Industrial Relations in the Modern State | Wage Regulation under the Statute of Artificers | European Trade Unionism | Management by Agreement | Industrial Relations in a Changing World | An Introduction to Industrial Relations | Industrial Relations in the Public Services | The Origins of British Industrial Relations | Agenda for Change | British Industrial Relations | Business & Sociology | Change in Industrial Relations | The Decline of Trade Union Organisation | Public Sector Industrial Relations | Safety at Work & the Unions | Development of Industrial Relations Britain 1911-1939 | The Durham Miners 1919–1960 | The Dynamics of Industrial Conflict | Improving Industrial Relations | History & Heritage | Industrial Action | International & Comparative Industrial Relations | Labour & Business in Modern Britain | The Managers Guide to Industrial Relations | Staff Relations in the Civil Service | The TUC Overseas"
+  },
+  {
+    "set_isbn": "9781032818030",
+    "set_isbn_title": "Event-Database Architecture for Computer Games Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032818061, 9781032818078",
+    "volume_titles": "Event-Database Architecture for Computer Games Vol 1 | Event-Database Architecture for Computer Games Vol 2"
   },
   {
     "set_isbn": "9781032834658",
@@ -2107,6 +2170,13 @@
     "volume_titles": "German Diplomatic Documents 1871–1914 Volume 1 | German Diplomatic Documents 1871–1914 Volume 2 | German Diplomatic Documents 1871–1914 Volume 3 | German Diplomatic Documents 1871–1914 Volume 4"
   },
   {
+    "set_isbn": "9781032993522",
+    "set_isbn_title": "Handbook of Microplastic Pollution in Environment Vol Set",
+    "volume_count": 3,
+    "associated_volumes": "9781032783659, 9781032783734, 9781032783802",
+    "volume_titles": "Handbook of Microplastic Pollution in the Environment | Handbook of Microplastic Pollution in the Environment | Handbook of Microplastic Pollution in the Environment"
+  },
+  {
     "set_isbn": "9781032997438",
     "set_isbn_title": "Web Hacking Arsenal & Ethical Hacking Vol Set",
     "volume_count": 2,
@@ -2126,6 +2196,20 @@
     "volume_count": 2,
     "associated_volumes": "9781032541402, 9781032815916",
     "volume_titles": "Visual Culture in Contemporary China I | Visual Culture in Contemporary China II"
+  },
+  {
+    "set_isbn": "9781041007296",
+    "set_isbn_title": "The Jews Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781041008026, 9781041008033",
+    "volume_titles": "The Jews from Ancient Canaan to a Global Culture | The Jews in the Modern Age"
+  },
+  {
+    "set_isbn": "9781041007326",
+    "set_isbn_title": "The Jews Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781041007807, 9781041007814",
+    "volume_titles": "The Jews from Ancient Canaan to a Global Culture | The Jews in the Modern Age"
   },
   {
     "set_isbn": "9781041018063",
@@ -2149,6 +2233,13 @@
     "volume_titles": "The Hundred & The Hundred Rolls | Documents Illustrating the History of Civilization in Medi | Categories of Medieval Culture | Feudalism | The Holy Roman Republic | Lordship & Feudalism in the Middle Ages | Traditions of Medieval English Drama | The Luminous Vision | Political Thought in Medieval Times | Geography in the Middle Ages | The Mediaeval Universities | Medieval Romance | Medieval Southampton | China & Africa in the Middle Ages | Popes & Princes 1417–1517 | English Medieval Theatre | English Wayfaring Life in the Middle Ages | Medieval Song"
   },
   {
+    "set_isbn": "9781041023081",
+    "set_isbn_title": "The Cities of Song China (960–1279) Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032666921, 9781032666938",
+    "volume_titles": "The Cities of Song China II | The Cities of Song China I"
+  },
+  {
     "set_isbn": "9781041030232",
     "set_isbn_title": "J. T. Hankinson on Sport Vol Set",
     "volume_count": 6,
@@ -2168,6 +2259,13 @@
     "volume_count": 2,
     "associated_volumes": "9781032913711, 9781032944104",
     "volume_titles": "Using Psychoanalytic Techniques to Transform the Attachmen | Practical Applications of Transforming the Attachment Rela"
+  },
+  {
+    "set_isbn": "9781041065104",
+    "set_isbn_title": "Routledge Library Editions: Food and Diet Vol Set",
+    "volume_count": 8,
+    "associated_volumes": "9781041005995, 9781041006107, 9781041011354, 9781041011545, 9781041011705, 9781041011866, 9781041012443, 9781041065081",
+    "volume_titles": "Food Aid Reconsidered | Food Adulteration & How to Beat It | The Politics of Food | The Earth Can Feed Us | Keeping Children Healthy | The Making of the Modern British Diet | Diet & Health in Modern Britain | Development & the Problems of Village Nutrition"
   },
   {
     "set_isbn": "9781041090267",
@@ -3878,6 +3976,13 @@
     "volume_titles": "Metals in Medicine Vol 1 | Metals in Medicine Vol 2"
   },
   {
+    "set_isbn": "9781774918180",
+    "set_isbn_title": "Advances Pharmaceutical Technology Drug Delivery Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781774918203, 9781774918227",
+    "volume_titles": "Advances Pharmaceutical Technology Drug Delivery Vol 1 | Advances Pharmaceutical Technology Drug Delivery Vol 2"
+  },
+  {
     "set_isbn": "9781774918449",
     "set_isbn_title": "Neuro-Nutraceuticals & Drug Discovery and Delivery Vol Set",
     "volume_count": 2,
@@ -4366,6 +4471,13 @@
     "volume_count": 2,
     "associated_volumes": "9781138929388, 9781138929395",
     "volume_titles": "Sustainable Agriculture for Food Energy and Industry V1 | Sustainable Agriculture for Food Energy and Industry V2"
+  },
+  {
+    "set_isbn": "9781926895758",
+    "set_isbn_title": "Quantum-Chemical Calculation Unique Molecular Syst Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032853307, 9781032853314",
+    "volume_titles": "Quantum-Chemical Calculation Unique Molecular Syst Vol 1 | Quantum-Chemical Calculation Unique Molecular Syst Vol 2"
   },
   {
     "set_isbn": "9782881240706",
