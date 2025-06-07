@@ -70,6 +70,13 @@
     "volume_titles": "Rout Hbk of Applied Linguistics Vol 2 | Rout Hbk of Applied Linguistics Vol 1"
   },
   {
+    "set_isbn": "9780367556082",
+    "set_isbn_title": "PIC16F1847 Microcontroller-Based Programmable Vol Set",
+    "volume_count": 3,
+    "associated_volumes": "9780367556051, 9780367556068, 9780367556075",
+    "volume_titles": "PIC16F1847 Microcontroller-Based Programmable - Hardware | PIC16F1847 Microcontroller-Based Programmable - Intermed | PIC16F1847 Microcontroller-Based Programmable - Advanced"
+  },
+  {
     "set_isbn": "9780367565220",
     "set_isbn_title": "The British Publishing Industry in the 19th C 4 VOL SET",
     "volume_count": 4,
@@ -1302,6 +1309,13 @@
     "volume_titles": "Evolutionary Cell Processes Primates V1 | Evolutionary Cell Processes Primates V2"
   },
   {
+    "set_isbn": "9781032080314",
+    "set_isbn_title": "Environmental Policy & Public Health Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032080352, 9781032181943",
+    "volume_titles": "Environmental Policy & Public Health Vol 2 | Environmental Policy & Public Health Vol 1"
+  },
+  {
     "set_isbn": "9781032112732",
     "set_isbn_title": "Algal Biotechnology Vol Set",
     "volume_count": 2,
@@ -1314,6 +1328,13 @@
     "volume_count": 6,
     "associated_volumes": "9781032128498, 9781032128559, 9781032128627, 9781032128672, 9781032128689, 9781032128696",
     "volume_titles": "Feedstock-based Bioethanol Fuels. I. Non-Waste Feedstocks | Bioethanol Fuel Production Processes. II | Bioethanol Fuel Production Processes. I | Feedstock-based Bioethanol Fuels. II. Waste Feedstocks | Evaluation & Utilization of Bioethanol Fuels. II. | Evaluation & Utilization of Bioethanol Fuels. I."
+  },
+  {
+    "set_isbn": "9781032181639",
+    "set_isbn_title": "Confucian Reform in Choson Korea Vol Set",
+    "volume_count": 4,
+    "associated_volumes": "9781032181547, 9781032181578, 9781032181592, 9781032181622",
+    "volume_titles": "Confucian Reform in Choson Korea V1 | Confucian Reform in Choson Korea V2 | Confucian Reform in Choson Korea V3 | Confucian Reform in Choson Korea V4"
   },
   {
     "set_isbn": "9781032201801",
@@ -1370,6 +1391,13 @@
     "volume_count": 2,
     "associated_volumes": "9781032244488, 9781032244563",
     "volume_titles": "Reimagining Mobilities Across V1 | Reimagining Mobilities Across V2"
+  },
+  {
+    "set_isbn": "9781032248165",
+    "set_isbn_title": "Hope for Philosophy Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032248134, 9781032248141",
+    "volume_titles": "Hope for Philosophy II | Hope for Philosophy I"
   },
   {
     "set_isbn": "9781032252148",
@@ -1932,6 +1960,13 @@
     "volume_titles": "Event-Database Architecture for Computer Games Vol 1 | Event-Database Architecture for Computer Games Vol 2"
   },
   {
+    "set_isbn": "9781032820668",
+    "set_isbn_title": "Event-Database Architecture for Computer Games Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032820675, 9781032820699",
+    "volume_titles": "Event-Database Architecture for Computer Games Vol 1 | Event-Database Architecture for Computer Games Vol 2"
+  },
+  {
     "set_isbn": "9781032834658",
     "set_isbn_title": "Advanced Nanomaterials for Solution-Processed Flexible Vol Set",
     "volume_count": 2,
@@ -2266,6 +2301,20 @@
     "volume_count": 8,
     "associated_volumes": "9781041005995, 9781041006107, 9781041011354, 9781041011545, 9781041011705, 9781041011866, 9781041012443, 9781041065081",
     "volume_titles": "Food Aid Reconsidered | Food Adulteration & How to Beat It | The Politics of Food | The Earth Can Feed Us | Keeping Children Healthy | The Making of the Modern British Diet | Diet & Health in Modern Britain | Development & the Problems of Village Nutrition"
+  },
+  {
+    "set_isbn": "9781041068471",
+    "set_isbn_title": "Rout Library Editions Social Admin & Social Policy Vol Set",
+    "volume_count": 14,
+    "associated_volumes": "9781041066835, 9781041066866, 9781041067375, 9781041067511, 9781041067535, 9781041067962, 9781041068099, 9781041069706, 9781041069850, 9781041070009, 9781041074588, 9781041074816, 9781041074922, 9781041075066",
+    "volume_titles": "The Aims & Outcomes of Social Policy Research | Housing Social Policy & the State | Introduction to Social Administration in Britain | Social Policy in the Irish Republic | An Introduction to the Study of Social Administration | Caring for Strangers | A Code of Ethics for Social Work | The Study of Social Policy | Poor Parents | Social Policy in Action | Introducing Social Policy | The English Prison Officer Since 1850 | To Do The Sick No Harm | Retiring to the Seaside"
+  },
+  {
+    "set_isbn": "9781041073772",
+    "set_isbn_title": "Contemporary Social Research Vol Set",
+    "volume_count": 7,
+    "associated_volumes": "9781041052036, 9781041053590, 9781041065821, 9781041069546, 9781041069652, 9781041069836, 9781041073680",
+    "volume_titles": "Social Causality | Doing Secondary Analysis | Research Methods for Elite Studies | Social Measurement & Social Indicators | Data Construction in Social Surveys | The Survey Method | Critical Social Research"
   },
   {
     "set_isbn": "9781041090267",
@@ -2632,6 +2681,13 @@
     "volume_titles": "Chinese Ideas of Life and Death | Crisis & Conflict in Han China 104 BC to AD 9 | Government of China 1644-1911 | Key Economic Areas in Chinese History | Foreign Diplomacy in China 1894-1900 | British Admirals & Chinese Pirates 1832-69 | World and China 1922-72 | Imperial History of China | Chinas Courts and Concubines | China and the West | Fusang"
   },
   {
+    "set_isbn": "9781138490192",
+    "set_isbn_title": "Contemporary Thought Nineteenth Century Socialism Vol Set",
+    "volume_count": 4,
+    "associated_volumes": "9781138321007, 9781138321021, 9781138321045, 9781138321052",
+    "volume_titles": "Contemporary Thought Nineteenth Century Socialism Vol 2 | Contemporary Thought Nineteenth Century Socialism Vol 3 | Contemporary Thought Nineteenth Century Socialism Vol 1 | Contemporary Thought Nineteenth Century Socialism Vol 4"
+  },
+  {
     "set_isbn": "9781138503366",
     "set_isbn_title": "Economics Business Technology - 49 VOL SET",
     "volume_count": 49,
@@ -2945,6 +3001,13 @@
     "volume_count": 6,
     "associated_volumes": "9781138826397, 9781138826410, 9781138826489, 9781138826526, 9781138826533, 9781138826540",
     "volume_titles": "Suggestion and Autosuggestion | Studies in Psychoanalysis | Contemporary Studies | Psychoanalysis and Aesthetics | The Mind of the Child | The Myth of Modernity"
+  },
+  {
+    "set_isbn": "9781138827301",
+    "set_isbn_title": "Comparative Constitutional Law Vol Set",
+    "volume_count": 4,
+    "associated_volumes": "9781138827318, 9781138827325, 9781138827332, 9781138827349",
+    "volume_titles": "Comparative Constitutional Law Vol 1 | Comparative Constitutional Law Vol 2 | Comparative Constitutional Law Vol 3 | Comparative Constitutional Law Vol 4"
   },
   {
     "set_isbn": "9781138827516",
@@ -3757,6 +3820,13 @@
     "volume_count": 4,
     "associated_volumes": "9781138853409, 9781138853416, 9781138853423, 9781138853447",
     "volume_titles": "Encyclopedia of Criminology & Deviant Behaviour I | Encyclopedia of Criminology & Deviant Behaviour II | Encyclopedia of Criminology & Deviant Behaviour III | Encyclopedia of Criminology & Deviant Behaviour IV"
+  },
+  {
+    "set_isbn": "9781563770050",
+    "set_isbn_title": "Service Learning in the Disciplines Vol Set",
+    "volume_count": 21,
+    "associated_volumes": "9781563770067, 9781563770074, 9781563770081, 9781563770098, 9781563770104, 9781563770111, 9781563770128, 9781563770135, 9781563770142, 9781563770159, 9781563770166, 9781563770173, 9781563770180, 9781563770197, 9781563770203, 9781563770210, 9781563770227, 9781563770234, 9781563770548, 9781563770692, 9781563771002",
+    "volume_titles": "Writing the Community | Experiencing Citizenship | Learning By Doing | Caring & Community | With Service In Mind | Learning With the Community | Voices of Strong Democracy | Acting Locally | Creating Community-Responsive Physicians | Teaching For Justice | Beyond the Tower | Cultivating the Sociological Imagination | Life Learning & Community | Projects That Matter | Connecting Past & Present | Working for the Common Good | Construyendo Puentes (Building Bridges) | Practice Of Change | From Cloister To Commons | Hospitality With a Heart | From the Studio to the Streets"
   },
   {
     "set_isbn": "9781579227708",
