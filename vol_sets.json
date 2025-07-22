@@ -42,6 +42,13 @@
     "volume_titles": "Now Nihongo Now | Now Nihongo Now"
   },
   {
+    "set_isbn": "9780367518660",
+    "set_isbn_title": "Rout History Hbk of Central & Eastern Vol Set",
+    "volume_count": 4,
+    "associated_volumes": "9780367510862, 9780367518608, 9780367518639, 9780367518646",
+    "volume_titles": "Rout History Hbk of Central & Eastern Vol 1 | Rout History Hbk of Central & Eastern Vol 2 | Rout History Hbk of Central & Eastern Vol 3 | Rout History Hbk of Central & Eastern Vol 4"
+  },
+  {
     "set_isbn": "9780367520793",
     "set_isbn_title": "Nineteenth Century Science Fiction - 2 VOL SET",
     "volume_count": 2,
@@ -1533,6 +1540,13 @@
     "volume_titles": "Heat Exchangers - V1 | Heat Exchangers - V2 | Heat Exchangers - V3"
   },
   {
+    "set_isbn": "9781032408309",
+    "set_isbn_title": "Financial Mathematics Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781138587878, 9781138603639",
+    "volume_titles": "Financial Mathematics V1 | Financial Mathematics V2"
+  },
+  {
     "set_isbn": "9781032408354",
     "set_isbn_title": "Functional Foods & Nutraceuticals Chronic Diseases Vol Set",
     "volume_count": 2,
@@ -2436,6 +2450,13 @@
     "volume_titles": "The Silk Roads - VOL 1 | The Silk Roads - VOL 2 | The Silk Roads - VOL 3 | The Silk Roads - VOL 4"
   },
   {
+    "set_isbn": "9781138016729",
+    "set_isbn_title": "The Routledge Handbook of Attachment 3 Vol Set",
+    "volume_count": 3,
+    "associated_volumes": "9780415538251, 9780415538275, 9780415706124",
+    "volume_titles": "Rout Hbk of Attachment - Assessment | The Routledge Handbook of Attachment Theory | Handbook of Attachment - Implications and Interventions"
+  },
+  {
     "set_isbn": "9781138017184",
     "set_isbn_title": "The History of Medicine - 4 VOLUME SET",
     "volume_count": 4,
@@ -2728,6 +2749,13 @@
     "volume_count": 2,
     "associated_volumes": "9781138598850, 9781138598867",
     "volume_titles": "Brexit and Europes Crises V1 | Brexit and Europes Crises V2"
+  },
+  {
+    "set_isbn": "9781138599697",
+    "set_isbn_title": "CMOS Analog Integrated Circuits Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781138599727, 9781138599734",
+    "volume_titles": "Amplifiers Comparators Multipliers Filters & Oscillato | Data Converters Phase-Locked Loops & Their Applications"
   },
   {
     "set_isbn": "9781138613508",
