@@ -134,7 +134,7 @@ function parseExcelFile(file) {
 }
 
 function extractISBNsFromArrayData(jsonData) {
-    const results = []; // Changed to store both ISBN and order number
+    const results = []; // Changed to store ISBN, order number, and order no.
     
     console.log('Processing Excel array data, total rows:', jsonData.length);
     
@@ -145,14 +145,15 @@ function extractISBNsFromArrayData(jsonData) {
             (row[0] || row[1]) && row.filter(cell => cell !== null && cell !== undefined).length >= 3) {
             orderHeaders.push({
                 rowIndex: index,
-                orderNumber: row[3].toString()
+                orderNumber: row[3].toString(),
+                orderNo: row[1] ? row[1].toString() : null // Column B contains Order No.
             });
         }
     });
     
     console.log(`Found ${orderHeaders.length} order headers`);
     
-    // Now process VSet rows and assign order numbers
+    // Now process VSet rows and assign order numbers and order nos
     jsonData.forEach((row, rowIndex) => {
         // Column L is index 11, Column F is index 5
         const columnL = row[11]; // Column L 
@@ -172,9 +173,12 @@ function extractISBNsFromArrayData(jsonData) {
                 if (isbn.length === 13 && /^\d{13}$/.test(isbn) && isValidISBN13(isbn)) {
                     // Find the most recent order header before this VSet row
                     let assignedOrder = null;
+                    let assignedOrderNo = null;
+                    
                     for (let i = orderHeaders.length - 1; i >= 0; i--) {
                         if (orderHeaders[i].rowIndex < rowIndex) {
                             assignedOrder = orderHeaders[i].orderNumber;
+                            assignedOrderNo = orderHeaders[i].orderNo;
                             break;
                         }
                     }
@@ -184,9 +188,10 @@ function extractISBNsFromArrayData(jsonData) {
                     if (existingIndex === -1) {
                         results.push({
                             isbn: isbn,
-                            orderNumber: assignedOrder
+                            orderNumber: assignedOrder,
+                            orderNo: assignedOrderNo
                         });
-                        console.log(`Added ISBN: ${isbn} with Order: ${assignedOrder || 'NONE'}`);
+                        console.log(`Added ISBN: ${isbn} with Order: ${assignedOrder || 'NONE'}, Order No: ${assignedOrderNo || 'NONE'}`);
                     }
                 } else {
                     console.log(`Invalid ISBN: "${isbn}" - length: ${isbn.length}, digits only: ${/^\d{13}$/.test(isbn)}, valid checksum: ${isValidISBN13(isbn)}`);
@@ -211,6 +216,7 @@ function performBulkSearch() {
     const results = uploadedISBNs.map(item => {
         const componentISBN = item.isbn;
         const orderNumber = item.orderNumber;
+        const orderNo = item.orderNo;
         
         // Find the set that contains this component ISBN
         const result = volumeSetsData.find(set => {
@@ -221,6 +227,7 @@ function performBulkSearch() {
         return { 
             isbn: componentISBN, 
             orderNumber: orderNumber,
+            orderNo: orderNo,
             result: result 
         };
     });
@@ -265,7 +272,7 @@ function displayBulkResults(results) {
     const groupedResults = {};
     const notFoundResults = [];
     
-    results.forEach(({ isbn: componentISBN, orderNumber, result }) => {
+    results.forEach(({ isbn: componentISBN, orderNumber, orderNo, result }) => {
         if (result) {
             const setISBN = result.set_isbn;
             const groupKey = `${setISBN}_${orderNumber || 'NO_ORDER'}`;
@@ -274,19 +281,20 @@ function displayBulkResults(results) {
                 groupedResults[groupKey] = {
                     setData: result,
                     orderNumber: orderNumber,
+                    orderNo: orderNo,
                     componentISBNs: []
                 };
             }
             groupedResults[groupKey].componentISBNs.push(componentISBN);
         } else {
-            notFoundResults.push({ isbn: componentISBN, orderNumber });
+            notFoundResults.push({ isbn: componentISBN, orderNumber, orderNo });
         }
     });
     
     let html = '<h5 class="mb-3">Bulk Search Results:</h5>';
     
     // Display grouped results (found sets)
-    Object.entries(groupedResults).forEach(([groupKey, { setData, orderNumber, componentISBNs }]) => {
+    Object.entries(groupedResults).forEach(([groupKey, { setData, orderNumber, orderNo, componentISBNs }]) => {
         const volumeTitles = setData.volume_titles.split(' | ');
         const allISBNs = setData.associated_volumes.split(',').map(isbn => isbn.trim());
         
@@ -314,7 +322,10 @@ function displayBulkResults(results) {
                             <h6 class="card-title text-success mb-1">
                                 <i class="fas fa-check-circle me-2"></i>Found ${componentISBNs.length} component${componentISBNs.length > 1 ? 's' : ''} in set
                             </h6>
-                            ${orderNumber ? `<span class="badge bg-info text-dark">Order: ${orderNumber}</span>` : ''}
+                            <div class="mt-2">
+                                ${orderNumber ? `<span class="badge bg-info text-dark me-2">Order: ${orderNumber}</span>` : ''}
+                                ${orderNo ? `<span class="badge bg-secondary">Order No: ${orderNo}</span>` : ''}
+                            </div>
                         </div>
                         <span class="badge bg-success">${setData.volume_count} volumes</span>
                     </div>
@@ -335,28 +346,37 @@ function displayBulkResults(results) {
     
     // Display not found results grouped by order
     if (notFoundResults.length > 0) {
-        // Group not found by order number
+        // Group not found by order number and order no
         const notFoundByOrder = {};
-        notFoundResults.forEach(({ isbn, orderNumber }) => {
-            const orderKey = orderNumber || 'NO_ORDER';
+        notFoundResults.forEach(({ isbn, orderNumber, orderNo }) => {
+            const orderKey = `${orderNumber || 'NO_ORDER'}_${orderNo || 'NO_ORDER_NO'}`;
             if (!notFoundByOrder[orderKey]) {
-                notFoundByOrder[orderKey] = [];
+                notFoundByOrder[orderKey] = {
+                    orderNumber: orderNumber,
+                    orderNo: orderNo,
+                    isbns: []
+                };
             }
-            notFoundByOrder[orderKey].push(isbn);
+            notFoundByOrder[orderKey].isbns.push(isbn);
         });
         
-        Object.entries(notFoundByOrder).forEach(([orderKey, isbnList]) => {
+        Object.entries(notFoundByOrder).forEach(([orderKey, { orderNumber, orderNo, isbns }]) => {
             html += `
                 <div class="card bulk-result-card border-warning">
                     <div class="card-body">
                         <div class="d-flex justify-content-between align-items-start mb-2">
-                            <h6 class="card-title text-warning mb-1">
-                                <i class="fas fa-exclamation-triangle me-2"></i>Component ISBNs not found (${isbnList.length})
-                            </h6>
-                            ${orderKey !== 'NO_ORDER' ? `<span class="badge bg-warning text-dark">Order: ${orderKey}</span>` : ''}
+                            <div>
+                                <h6 class="card-title text-warning mb-1">
+                                    <i class="fas fa-exclamation-triangle me-2"></i>Component ISBNs not found (${isbns.length})
+                                </h6>
+                                <div class="mt-2">
+                                    ${orderNumber ? `<span class="badge bg-warning text-dark me-2">Order: ${orderNumber}</span>` : ''}
+                                    ${orderNo ? `<span class="badge bg-secondary">Order No: ${orderNo}</span>` : ''}
+                                </div>
+                            </div>
                         </div>
                         <div class="row">
-                            ${isbnList.map(isbn => 
+                            ${isbns.map(isbn => 
                                 `<div class="col-md-6 col-lg-4 mb-1">
                                     <span class="isbn-chip not-found">${isbn}</span>
                                 </div>`
@@ -392,11 +412,12 @@ function exportToPDF() {
     doc.setFont('helvetica', 'bold');
     doc.text('Volume Sets Reverse Search Report', margin, 25);
     
-    // File info
+    // File info - don't show Order No since there are multiple
     doc.setFontSize(12);
     doc.setFont('helvetica', 'normal');
     const fileName = currentFile ? currentFile.name : 'Unknown File';
     const reportDate = new Date().toLocaleDateString();
+    
     doc.text(`File: ${fileName}`, margin, 40);
     doc.text(`Report Date: ${reportDate}`, margin, 50);
     
@@ -406,7 +427,7 @@ function exportToPDF() {
     const groupedResults = {};
     const notFoundResults = [];
     
-    searchResults.forEach(({ isbn: componentISBN, orderNumber, result }) => {
+    searchResults.forEach(({ isbn: componentISBN, orderNumber, orderNo, result }) => {
         if (result) {
             const setISBN = result.set_isbn;
             const groupKey = `${setISBN}_${orderNumber || 'NO_ORDER'}`;
@@ -415,12 +436,13 @@ function exportToPDF() {
                 groupedResults[groupKey] = {
                     setData: result,
                     orderNumber: orderNumber,
+                    orderNo: orderNo,
                     componentISBNs: []
                 };
             }
             groupedResults[groupKey].componentISBNs.push(componentISBN);
         } else {
-            notFoundResults.push({ isbn: componentISBN, orderNumber });
+            notFoundResults.push({ isbn: componentISBN, orderNumber, orderNo });
         }
     });
     
@@ -431,7 +453,7 @@ function exportToPDF() {
         doc.text('Found Volume Sets:', margin, yPosition);
         yPosition += 15;
         
-        Object.entries(groupedResults).forEach(([groupKey, { setData, orderNumber, componentISBNs }]) => {
+        Object.entries(groupedResults).forEach(([groupKey, { setData, orderNumber, orderNo, componentISBNs }]) => {
             // Check if we need a new page
             if (yPosition > 220) {
                 doc.addPage();
@@ -451,6 +473,11 @@ function exportToPDF() {
             
             if (orderNumber) {
                 doc.text(`Order: ${orderNumber}`, margin, yPosition);
+                yPosition += 8;
+            }
+            
+            if (orderNo) {
+                doc.text(`Order No: ${orderNo}`, margin, yPosition);
                 yPosition += 8;
             }
             
@@ -509,22 +536,36 @@ function exportToPDF() {
         
         // Group not found by order
         const notFoundByOrder = {};
-        notFoundResults.forEach(({ isbn, orderNumber }) => {
-            const orderKey = orderNumber || 'No Order';
+        notFoundResults.forEach(({ isbn, orderNumber, orderNo }) => {
+            const orderKey = `${orderNumber || 'No Order'}_${orderNo || 'No Order No'}`;
             if (!notFoundByOrder[orderKey]) {
-                notFoundByOrder[orderKey] = [];
+                notFoundByOrder[orderKey] = {
+                    orderNumber: orderNumber,
+                    orderNo: orderNo,
+                    isbns: []
+                };
             }
-            notFoundByOrder[orderKey].push(isbn);
+            notFoundByOrder[orderKey].isbns.push(isbn);
         });
         
-        Object.entries(notFoundByOrder).forEach(([orderKey, isbnList]) => {
+        Object.entries(notFoundByOrder).forEach(([orderKey, { orderNumber, orderNo, isbns }]) => {
             doc.setFontSize(12);
             doc.setFont('helvetica', 'bold');
-            doc.text(`${orderKey}:`, margin, yPosition);
+            let headerText = '';
+            if (orderNumber && orderNo) {
+                headerText = `Order: ${orderNumber}, Order No: ${orderNo}`;
+            } else if (orderNumber) {
+                headerText = `Order: ${orderNumber}`;
+            } else if (orderNo) {
+                headerText = `Order No: ${orderNo}`;
+            } else {
+                headerText = 'No Order Information';
+            }
+            doc.text(headerText, margin, yPosition);
             yPosition += 8;
             
             doc.setFont('helvetica', 'normal');
-            const isbnText = isbnList.join(', ');
+            const isbnText = isbns.join(', ');
             const lines = doc.splitTextToSize(isbnText, contentWidth);
             doc.text(lines, margin, yPosition);
             yPosition += lines.length * 6 + 10;
@@ -541,7 +582,7 @@ function exportToPDF() {
         doc.text('Generated by Volume Sets Reverse Search Tool', margin, doc.internal.pageSize.height - 10);
     }
     
-    // Save the PDF
+    // Save the PDF without Order No in filename since there are multiple
     const timestamp = new Date().toISOString().slice(0, 19).replace(/:/g, '-');
     const filename = `volume-sets-report-${timestamp}.pdf`;
     doc.save(filename);
