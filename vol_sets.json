@@ -196,6 +196,13 @@
     "volume_titles": "Food Processing Adv in Thermal | Food Processing Adv Non Thermal"
   },
   {
+    "set_isbn": "9780367758011",
+    "set_isbn_title": "Groundwater Economics 2 Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9780367757991, 9780367758004",
+    "volume_titles": "Production Use & Sustainability of Groundwater | Cost-Benefit Analysis of Groundwater Policy & Projects wi"
+  },
+  {
     "set_isbn": "9780367821258",
     "set_isbn_title": "North Americas Natural Wonders Vol Set",
     "volume_count": 2,
@@ -994,6 +1001,13 @@
     "volume_titles": "Language Rights Vol I | Language Rights Vol II | Language Rights Vol III | Language Rights Vol IV"
   },
   {
+    "set_isbn": "9780415746366",
+    "set_isbn_title": "Planning Theory Vol Set",
+    "volume_count": 4,
+    "associated_volumes": "9780415746458, 9780415746465, 9780415746472, 9780415746489",
+    "volume_titles": "Planning Theory Vol 1 | Planning Theory Vol 2 | Planning Theory Vol 3 | Planning Theory Vol 4"
+  },
+  {
     "set_isbn": "9780415784870",
     "set_isbn_title": "Literature and Sexuality - 7 Vol Set",
     "volume_count": 7,
@@ -1351,6 +1365,27 @@
     "volume_titles": "Feedstock-based Bioethanol Fuels. I. Non-Waste Feedstocks | Bioethanol Fuel Production Processes. II | Bioethanol Fuel Production Processes. I | Feedstock-based Bioethanol Fuels. II. Waste Feedstocks | Evaluation & Utilization of Bioethanol Fuels. II. | Evaluation & Utilization of Bioethanol Fuels. I."
   },
   {
+    "set_isbn": "9781032146515",
+    "set_isbn_title": "Smart Buildings Digitalization - 2 Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032061771, 9781032146423",
+    "volume_titles": "Smart Buildings Digitalization - IOT | Smart Buildings Digitalization - Case Studies"
+  },
+  {
+    "set_isbn": "9781032159669",
+    "set_isbn_title": "Phosphor Handbook Vol Set",
+    "volume_count": 3,
+    "associated_volumes": "9780367566227, 9781032159621, 9781032159683",
+    "volume_titles": "Phosphor Handbook - Experimental Methods | Phosphor Handbook - Fundamentals | Phosphor Handbook - Novel Phosphors"
+  },
+  {
+    "set_isbn": "9781032169699",
+    "set_isbn_title": "Confucian Reform in Choson Korea Vol Set",
+    "volume_count": 4,
+    "associated_volumes": "9781032181554, 9781032181561, 9781032181585, 9781032181615",
+    "volume_titles": "Confucian Reform in Choson Korea V1 | Confucian Reform in Choson Korea V2 | Confucian Reform in Choson Korea V3 | Confucian Reform in Choson Korea V4"
+  },
+  {
     "set_isbn": "9781032181639",
     "set_isbn_title": "Confucian Reform in Choson Korea Vol Set",
     "volume_count": 4,
@@ -1594,6 +1629,13 @@
     "volume_count": 6,
     "associated_volumes": "9781032465586, 9781032465609, 9781032466057, 9781032466101, 9781032466125, 9781032466156",
     "volume_titles": "Hydrogen Production from Nonrenewable Resources | Hydrogen Production from Renewable Resources & Wastes | Hydrogen Purification & Separation | Hydrogen Transportation & Storage | Hydrogen Applications & Technologies | Hydrogen Utilization in Fuel Cells"
+  },
+  {
+    "set_isbn": "9781032472713",
+    "set_isbn_title": "Mediation & Law in China Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032473499, 9781032473529",
+    "volume_titles": "Mediation & Law in China I | Mediation & Law in China II"
   },
   {
     "set_isbn": "9781032474274",
@@ -2569,6 +2611,13 @@
     "volume_titles": "From Ankara to Marakesh | The Hejaz Railway and the Muslim Pilgrimage | Kemalist Turkey and the Middle East | New Approaches to State and Peasant in Ottoman History | Political Parties and Democracy in Turkey | Radical Politics in Modern Turkey"
   },
   {
+    "set_isbn": "9781138196575",
+    "set_isbn_title": "Hbk of Laser Technology Applications Vol Set",
+    "volume_count": 4,
+    "associated_volumes": "9780367649173, 9781138032613, 9781138032620, 9781138033320",
+    "volume_titles": "Hbk of Laser Technology Applications V4 | Hbk of Laser Technology Applications V1 | Hbk of Laser Technology Applications V2 | Hbk of Laser Technology Applications V3"
+  },
+  {
     "set_isbn": "9781138200630",
     "set_isbn_title": "Rle Ancient Philosophy - 6 VOLUME SET",
     "volume_count": 6,
@@ -2700,6 +2749,13 @@
     "volume_count": 2,
     "associated_volumes": "9781032137230, 9781032137247",
     "volume_titles": "Hbk of Chemical & Biological Warfare Agents V1 | Hbk of Chemical & Biological Warfare Agents V2"
+  },
+  {
+    "set_isbn": "9781138391574",
+    "set_isbn_title": "Human Performance & Workload Measures Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9780367002312, 9780367002329",
+    "volume_titles": "Human Performance & Situation Awareness Measures | Workload Measures"
   },
   {
     "set_isbn": "9781138479098",
@@ -4023,6 +4079,13 @@
     "volume_count": 2,
     "associated_volumes": "9781774911020, 9781774911044",
     "volume_titles": "Bioactives Pharmacology Medicinal Plants V1 | Bioactives Pharmacology Medicinal Plants V2"
+  },
+  {
+    "set_isbn": "9781774910641",
+    "set_isbn_title": "Nanotechnology Horizons Food Process Eng - Vol Set",
+    "volume_count": 3,
+    "associated_volumes": "9781774910603, 9781774910627, 9781774910986",
+    "volume_titles": "Nanotechnology Horizons Food Process Eng - V1 | Nanotechnology Horizons Food Process Eng - V2 | Nanotechnology Horizons Food Process Eng - V3"
   },
   {
     "set_isbn": "9781774911006",
