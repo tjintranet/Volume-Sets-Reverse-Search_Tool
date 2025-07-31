@@ -168,6 +168,13 @@
     "volume_titles": "Microbial Based Land Restoration Hbk V2 | Microbial Based Land Restoration Hbk V1"
   },
   {
+    "set_isbn": "9780367709594",
+    "set_isbn_title": "IP Routing Protocols Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9780367709624, 9780367709631",
+    "volume_titles": "IP Routing Protocols Fundamentals | IP Routing Protocols Link-State"
+  },
+  {
     "set_isbn": "9780367712723",
     "set_isbn_title": "Environmental Compliance 4 VOL SET",
     "volume_count": 4,
@@ -1351,6 +1358,13 @@
     "volume_titles": "Environmental Policy & Public Health Vol 2 | Environmental Policy & Public Health Vol 1"
   },
   {
+    "set_isbn": "9781032095189",
+    "set_isbn_title": "The History of Evil Vol Set",
+    "volume_count": 6,
+    "associated_volumes": "9781032095134, 9781032095141, 9781032095158, 9781032095165, 9781032095172, 9781032095196",
+    "volume_titles": "The History of Evil in the Medieval Age | The History of Evil in the Early Modern Age | The History of Evil in the Eighteenth & Nineteenth Centuri | The History of Evil in the Early Twentieth Century | The History of Evil from the Mid-Twentieth Century to Toda | The History of Evil in Antiquity"
+  },
+  {
     "set_isbn": "9781032112732",
     "set_isbn_title": "Algal Biotechnology Vol Set",
     "volume_count": 2,
@@ -1496,6 +1510,13 @@
     "volume_count": 13,
     "associated_volumes": "9781032309514, 9781032310640, 9781032310695, 9781032313313, 9781032313399, 9781032313498, 9781032316543, 9781032316703, 9781032321271, 9781032322049, 9781032328058, 9781032330280, 9781032331034",
     "volume_titles": "Cape of Torments | Children Enslaved | Slavery in Twentieth Century | Slavery | Royal Navy & Slave Trade | Royal Navy and Slavers | Africa Slaves Today | African Link | Slavery in Roman Empire | Out of Slavery | Antislavery Political Writings | Forced Migration | Out of House of Bondage"
+  },
+  {
+    "set_isbn": "9781032315812",
+    "set_isbn_title": "Designing Switch-Routers Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032315829, 9781032315836",
+    "volume_titles": "Designing Switch-Routers - Fundamental | Designing Switch-Routers - Architectures"
   },
   {
     "set_isbn": "9781032317366",
