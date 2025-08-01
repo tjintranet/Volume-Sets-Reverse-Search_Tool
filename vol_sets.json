@@ -28,6 +28,13 @@
     "volume_titles": "Scientific & Medical Knowledge - V1 Curiosity | Scientific & Medical Knowledge - V2 Humanity | Scientific & Medical Knowledge - V3 Authority | Scientific & Medical Knowledge - V4 Uncertainty"
   },
   {
+    "set_isbn": "9780367499488",
+    "set_isbn_title": "Swarm Intelligence Algorithms Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9780367496142, 9780367528881",
+    "volume_titles": "Swarm Intelligence Algorithms Vol 1 | Swarm Intelligence Algorithms Vol 2"
+  },
+  {
     "set_isbn": "9780367508494",
     "set_isbn_title": "Nihongo Now Vol Set",
     "volume_count": 2,
@@ -1372,6 +1379,13 @@
     "volume_titles": "Algal Biotechnology | Algal Biotechnology"
   },
   {
+    "set_isbn": "9781032116242",
+    "set_isbn_title": "Psychological Automatism 2 Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9780367254117, 9781032056890",
+    "volume_titles": "Catalepsy Memory & Suggestion in Psychological Automatism | Subconscious Acts Anesthesias & Psychological Disaggregat"
+  },
+  {
     "set_isbn": "9781032128597",
     "set_isbn_title": "Handbook of Bioethanol Fuels Vol Set",
     "volume_count": 6,
@@ -1503,6 +1517,13 @@
     "volume_count": 2,
     "associated_volumes": "9780815374428, 9780815374435",
     "volume_titles": "Secret Subversion I | Secret Subversion II"
+  },
+  {
+    "set_isbn": "9781032308920",
+    "set_isbn_title": "Occultism & Sigmund Freud 2 Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032159553, 9781032159584",
+    "volume_titles": "Occultism & Origins of Psychoanalysis | Sigmund Freud & Forsyth Case"
   },
   {
     "set_isbn": "9781032309422",
