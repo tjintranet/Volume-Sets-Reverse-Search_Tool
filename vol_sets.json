@@ -1288,6 +1288,13 @@
     "volume_titles": "Voyage of George Vancouver 1791-95 V1 | Voyage of George Vancouver 1791-95 V2 | Voyage of George Vancouver 1791-95 V3 | Voyage of George Vancouver 1791-95 V4"
   },
   {
+    "set_isbn": "9781032006338",
+    "set_isbn_title": "Geospatial Info Hbk for Water Resources Vol Set",
+    "volume_count": 3,
+    "associated_volumes": "9781032006369, 9781032006499, 9781032006550",
+    "volume_titles": "Geospatial Info Hbk for Water Resources Vol 1 | Geospatial Info Hbk for Water Resources Vol 2 | Geospatial Info Hbk for Water Resources Vol 3"
+  },
+  {
     "set_isbn": "9781032006420",
     "set_isbn_title": "Geospatial Info Hbk Water Resources Watershed Vol Set",
     "volume_count": 3,
