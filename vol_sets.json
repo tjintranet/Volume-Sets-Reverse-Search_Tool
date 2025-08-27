@@ -1582,6 +1582,13 @@
     "volume_titles": "Problems & Solutions Med Physics - Radiotherapy | Problems & Solutions Med Physics - Diagnostic | Problems & Solutions Med Physics - Nuclear"
   },
   {
+    "set_isbn": "9781032337265",
+    "set_isbn_title": "College Physics Essentials Eighth Edition Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032337272, 9781032337289",
+    "volume_titles": "College Physics Essentials Eighth Edition Vol 2 | College Physics Essentials Eighth Edition Vol 1"
+  },
+  {
     "set_isbn": "9781032337838",
     "set_isbn_title": "Renewable Energy Systems Vol Set",
     "volume_count": 2,
