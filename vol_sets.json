@@ -7,11 +7,32 @@
     "volume_titles": "A New Reference Grammar of Modern Spanish | Practising Spanish Grammar"
   },
   {
+    "set_isbn": "9780367137175",
+    "set_isbn_title": "Ordinary Differential Equations with Apps Vol Set",
+    "volume_count": 6,
+    "associated_volumes": "9780367137182, 9780367137199, 9780367137205, 9780367137212, 9780367137236, 9780367137243",
+    "volume_titles": "Linear Differential Equations & Oscillators | Non-Linear Differential Equations Dynamical Sys | Higher-Order Differential Equations & Elasticity | Simultaneous Systems Differential Equations | Singular Differential Equations Special Functions | Classification & Examples Differential Equations"
+  },
+  {
+    "set_isbn": "9780367210953",
+    "set_isbn_title": "Emotions in Europe 1517-1914 - Vol Set",
+    "volume_count": 4,
+    "associated_volumes": "9781032007403, 9781032007632, 9781032007649, 9781032007656",
+    "volume_titles": "Emotions in Europe 1517-1914 - V1 | Emotions in Europe 1517-1914 - V2 | Emotions in Europe 1517-1914 - V3 | Emotions in Europe 1517-1914 - V4"
+  },
+  {
     "set_isbn": "9780367221546",
     "set_isbn_title": "Pathways in 19c Textile - 3 VOL SET",
     "volume_count": 3,
     "associated_volumes": "9780367222765, 9780367222772, 9780367222789",
     "volume_titles": "Pathways in 19C British Textile V1 | Pathways in 19C British Textile V2 | Pathways in 19C British Textile V3"
+  },
+  {
+    "set_isbn": "9780367260385",
+    "set_isbn_title": "Ethics Law & Society Vol Set",
+    "volume_count": 5,
+    "associated_volumes": "9780754645832, 9780754648819, 9780754671800, 9780754676461, 9781409419167",
+    "volume_titles": "Ethics Law & Society Vol 1 | Ethics Law & Society Vol 2 | Ethics Law & Society Vol 3 | Ethics Law & Society Vol 4 | Ethics Law & Society Vol 5"
   },
   {
     "set_isbn": "9780367346898",
@@ -1419,6 +1440,13 @@
     "volume_count": 4,
     "associated_volumes": "9781032181554, 9781032181561, 9781032181585, 9781032181615",
     "volume_titles": "Confucian Reform in Choson Korea V1 | Confucian Reform in Choson Korea V2 | Confucian Reform in Choson Korea V3 | Confucian Reform in Choson Korea V4"
+  },
+  {
+    "set_isbn": "9781032171364",
+    "set_isbn_title": "Chinese Theatre An Illustrated History Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032121215, 9781032171180",
+    "volume_titles": "Chinese Theatre An Illustrated History Vol 1 | Chinese Theatre An Illustrated History Vol 2"
   },
   {
     "set_isbn": "9781032181639",
