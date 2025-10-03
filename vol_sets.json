@@ -217,6 +217,13 @@
     "volume_titles": "Environmental Compliance Hbk Vol 3 | Environmental Compliance Hbk Vol 2 | Environmental Compliance Hbk Vol 4 | Environmental Compliance Hbk Vol 1"
   },
   {
+    "set_isbn": "9780367751609",
+    "set_isbn_title": "Aptitude Learning & Instruction Vol Set",
+    "volume_count": 3,
+    "associated_volumes": "9780367755362, 9780367755928, 9780367756178",
+    "volume_titles": "Aptitude Learning & Instruction V1 | Aptitude Learning & Instruction V2 | Aptitude Learning & Instruction V3"
+  },
+  {
     "set_isbn": "9780367752422",
     "set_isbn_title": "Vertebrate Cranial Placodes Vol Set",
     "volume_count": 2,
@@ -1671,6 +1678,13 @@
     "volume_count": 2,
     "associated_volumes": "9781032114774, 9781032351711",
     "volume_titles": "Applications of Functional Foods | Molecular Mechanisms Action Funct Foods V2"
+  },
+  {
+    "set_isbn": "9781032425375",
+    "set_isbn_title": "Advances in Frontier Research Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032373614, 9781032425412",
+    "volume_titles": "Advances in Frontier Research V1 | Advances in Frontier Research V2"
   },
   {
     "set_isbn": "9781032430713",
