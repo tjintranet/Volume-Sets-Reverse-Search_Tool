@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /
+Disallow: /vol_sets.json
+Disallow: /*.json
+
+# Specific blocking for common bots
+User-agent: Googlebot
+Disallow: /
+
+User-agent: Bingbot
+Disallow: /
+
+User-agent: Slurp
+Disallow: /
+
+User-agent: DuckDuckBot
+Disallow: /
