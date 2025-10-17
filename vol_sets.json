@@ -1470,6 +1470,13 @@
     "volume_titles": "Flood Handbook Vol 1 | Flood Handbook Vol 2 | Flood Handbook Vol 3"
   },
   {
+    "set_isbn": "9781032204888",
+    "set_isbn_title": "Scientific Methodology in Nineteenth Century Brit Vol Set",
+    "volume_count": 4,
+    "associated_volumes": "9781032204901, 9781032204918, 9781032204932, 9781032204949",
+    "volume_titles": "Scientific Methodology in Nineteenth Century Brit Vol 1 | Scientific Methodology in Nineteenth Century Brit Vol 2 | Scientific Methodology in Nineteenth Century Brit Vol 3 | Scientific Methodology in Nineteenth Century Brit Vol 4"
+  },
+  {
     "set_isbn": "9781032207889",
     "set_isbn_title": "Women in Medicine in Long 19C Volset",
     "volume_count": 4,
@@ -2511,6 +2518,13 @@
     "volume_count": 2,
     "associated_volumes": "9781032074764, 9781032323732",
     "volume_titles": "The Security Leader’s Communication Playbook | Leading Digital Workforce"
+  },
+  {
+    "set_isbn": "9781041100850",
+    "set_isbn_title": "Routledge Library Editions: Public Policy Vol Set",
+    "volume_count": 6,
+    "associated_volumes": "9781041082958, 9781041083160, 9781041084211, 9781041088356, 9781041089148, 9781041089575",
+    "volume_titles": "Policy and Action Vol 1 | Housing and Public Policy Vol 4 | Public Policy and Economic Theory Vol 6 | Public Policy and the Tax System Vol 3 | Family Doctors and Public Policy Vol 2 | Implementing Public Policy Vol 5"
   },
   {
     "set_isbn": "9781041110644",
