@@ -1652,6 +1652,13 @@
     "volume_titles": "Quantum Mechanics I | Quantum Mechanics II"
   },
   {
+    "set_isbn": "9781032364025",
+    "set_isbn_title": "Critical History of Psychotherapy Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032169408, 9781032169415",
+    "volume_titles": "Critical History of Psychotherapy Vol 1 | Critical History of Psychotherapy Vol 2"
+  },
+  {
     "set_isbn": "9781032367996",
     "set_isbn_title": "Fundamentals Emerging Applications of Magnets Vol Set",
     "volume_count": 2,
