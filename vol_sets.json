@@ -35,6 +35,13 @@
     "volume_titles": "Ethics Law & Society Vol 1 | Ethics Law & Society Vol 2 | Ethics Law & Society Vol 3 | Ethics Law & Society Vol 4 | Ethics Law & Society Vol 5"
   },
   {
+    "set_isbn": "9780367335106",
+    "set_isbn_title": "Work and Unemployment 1834-1911 Vol Set",
+    "volume_count": 4,
+    "associated_volumes": "9780367335151, 9780367335212, 9780367335250, 9780367335298",
+    "volume_titles": "Work and Unemployment 1834 V1 | Work and Unemployment 1834 V2 | Work and Unemployment 1834 V3 | Work and Unemployment 1834 V4"
+  },
+  {
     "set_isbn": "9780367346898",
     "set_isbn_title": "Cyber - 2 VOL SET",
     "volume_count": 2,
@@ -117,6 +124,13 @@
     "volume_count": 3,
     "associated_volumes": "9780367556051, 9780367556068, 9780367556075",
     "volume_titles": "PIC16F1847 Microcontroller-Based Programmable - Hardware | PIC16F1847 Microcontroller-Based Programmable - Intermed | PIC16F1847 Microcontroller-Based Programmable - Advanced"
+  },
+  {
+    "set_isbn": "9780367565077",
+    "set_isbn_title": "Politics & Trade in Britain 1776-1914 Vol Set",
+    "volume_count": 3,
+    "associated_volumes": "9780367565114, 9780367565138, 9780367565183",
+    "volume_titles": "Politics & Trade in Britain 1776-1914 Vol 1 | Politics & Trade in Britain 1776-1914 Vol 2 | Politics & Trade in Britain 1776-1914 Vol 3"
   },
   {
     "set_isbn": "9780367565220",
@@ -1316,6 +1330,13 @@
     "volume_titles": "Voyage of George Vancouver 1791-95 V1 | Voyage of George Vancouver 1791-95 V2 | Voyage of George Vancouver 1791-95 V3 | Voyage of George Vancouver 1791-95 V4"
   },
   {
+    "set_isbn": "9781003863144",
+    "set_isbn_title": "The Blinding Light of Race Vol Set",
+    "volume_count": 3,
+    "associated_volumes": "9781032757957, 9781032757988, 9781032757995",
+    "volume_titles": "Anthropology & Slavery at the Dawn of White Supremacy V1 | Racial Segregation & Eugenical Science Between the Wars V3 | Unmarking Whiteness & the New American Racism V2"
+  },
+  {
     "set_isbn": "9781032006338",
     "set_isbn_title": "Geospatial Info Hbk for Water Resources Vol Set",
     "volume_count": 3,
@@ -1484,6 +1505,13 @@
     "volume_titles": "Women in Medicine in Long 19C Vol 1 | Women in Medicine in Long 19C Vol 2 | Women in Medicine in Long 19C Vol 3 | Women in Medicine in Long 19C Vol 4"
   },
   {
+    "set_isbn": "9781032217376",
+    "set_isbn_title": "A New Exploration of Hegel's Dialectics Vol Set",
+    "volume_count": 3,
+    "associated_volumes": "9781032217444, 9781032217451, 9781032217468",
+    "volume_titles": "New Exploration of Hegels Dialectics I | New Exploration of Hegels Dialectics II | New Exploration of Hegels Dialectics III"
+  },
+  {
     "set_isbn": "9781032220345",
     "set_isbn_title": "Hbk of Himalayan Ecosystems Sustainability Vol Set",
     "volume_count": 2,
@@ -1538,6 +1566,13 @@
     "volume_count": 3,
     "associated_volumes": "9781032250397, 9781032252186, 9781032252223",
     "volume_titles": "Botanical Gardens Plant Conservation V2 | Botanical Gardens Plant Conservation V1 | Botanical Gardens Plant Conservation V3"
+  },
+  {
+    "set_isbn": "9781032285191",
+    "set_isbn_title": "Computational Methods & GIS Apps in Social Science Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032273266, 9781032302430",
+    "volume_titles": "Computational Methods & GIS Apps in Social Science V2 | Computational Methods & GIS Apps in Social Science Lab Manual V1"
   },
   {
     "set_isbn": "9781032287720",
@@ -1790,6 +1825,13 @@
     "volume_count": 2,
     "associated_volumes": "9781032531205, 9781032531212",
     "volume_titles": "Economic Dev Modern China Before 1949 | Economic Dev Modern China Since 1949"
+  },
+  {
+    "set_isbn": "9781032532820",
+    "set_isbn_title": "Depression in New Mothers Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032520742, 9781032532752",
+    "volume_titles": "Depression in New Mothers Vol 2 | Depression in New Mothers Vol 1"
   },
   {
     "set_isbn": "9781032533186",
@@ -2149,6 +2191,13 @@
     "volume_titles": "Event-Database Architecture for Computer Games Vol 1 | Event-Database Architecture for Computer Games Vol 2"
   },
   {
+    "set_isbn": "9781032834542",
+    "set_isbn_title": "Handbook of Complementary Alt & Integrative Medi Vol Set",
+    "volume_count": 6,
+    "associated_volumes": "9781032346823, 9781032346830, 9781032346847, 9781032356938, 9781032357027, 9781032358192",
+    "volume_titles": "Handbook of Complementary Alt & Integrative Medi V1 | Handbook of Complementary Alt & Integrative Medi Vol 2 | Handbook of Complementary Alt & Integrative Medi Vol 3 | Handbook of Complementary Alt & Integrative Medi Vol 5 | Handbook of Complementary Alt & Integrative Medi Vol 4 | Handbook of Complementary Alt & Integrative Medi Vol 6"
+  },
+  {
     "set_isbn": "9781032834658",
     "set_isbn_title": "Advanced Nanomaterials for Solution-Processed Flexible Vol Set",
     "volume_count": 2,
@@ -2504,6 +2553,13 @@
     "volume_count": 7,
     "associated_volumes": "9781041052036, 9781041053590, 9781041065821, 9781041069546, 9781041069652, 9781041069836, 9781041073680",
     "volume_titles": "Social Causality | Doing Secondary Analysis | Research Methods for Elite Studies | Social Measurement & Social Indicators | Data Construction in Social Surveys | The Survey Method | Critical Social Research"
+  },
+  {
+    "set_isbn": "9781041089872",
+    "set_isbn_title": "Stats Analytics for Health Data Science SAS & R Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032325620, 9781032978499",
+    "volume_titles": "Stats Analytics for Health Data Science SAS & R V1 | Advanced Stats Analytics Health Data Science SAS & R V2"
   },
   {
     "set_isbn": "9781041090267",
@@ -4221,6 +4277,13 @@
     "volume_titles": "Nanotechnology Horizons Food Process Eng - V1 | Nanotechnology Horizons Food Process Eng - V2 | Nanotechnology Horizons Food Process Eng - V3"
   },
   {
+    "set_isbn": "9781774910764",
+    "set_isbn_title": "Biomolecules & Pharmacology Medicinal Plants Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781774910788, 9781774910801",
+    "volume_titles": "Biomolecules & Pharmacology Medicinal Plants V1 | Biomolecules & Pharmacology Medicinal Plants V2"
+  },
+  {
     "set_isbn": "9781774911006",
     "set_isbn_title": "Bioremediation Phytoremediation Tech Soil - Vol Set",
     "volume_count": 4,
@@ -4800,5 +4863,12 @@
     "volume_count": 2,
     "associated_volumes": "9781032799773, 9781032799797",
     "volume_titles": "Technology & Biochemistry of Wine | Technology & Biochemistry of Wine"
+  },
+  {
+    "set_isbn": "9789462986060",
+    "set_isbn_title": "Conductor Willem Mengelberg 1871-1951 Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781041259381, 9781041259404",
+    "volume_titles": "Conductor Willem Mengelberg 1871-1951 Vol 1 | Conductor Willem Mengelberg 1871-1951 Vol 2"
   }
 ]
