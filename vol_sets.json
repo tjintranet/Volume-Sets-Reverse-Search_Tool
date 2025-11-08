@@ -1334,7 +1334,14 @@
     "set_isbn_title": "The Blinding Light of Race Vol Set",
     "volume_count": 3,
     "associated_volumes": "9781032757957, 9781032757988, 9781032757995",
-    "volume_titles": "Anthropology & Slavery at the Dawn of White Supremacy V1 | Racial Segregation & Eugenical Science Between the Wars V3 | Unmarking Whiteness & the New American Racism V2"
+    "volume_titles": "Anthropology & Slavery at the Dawn of White Supremacy | Racial Segregation & Eugenical Science Between the Wars | Unmarking Whiteness & the New American Racism"
+  },
+  {
+    "set_isbn": "9781003863267",
+    "set_isbn_title": "The Blinding Light of Race Vol Set",
+    "volume_count": 3,
+    "associated_volumes": "9781032826745, 9781032827124, 9781032827155",
+    "volume_titles": "Anthropology & Slavery at the Dawn of White Supremacy | Unmarking Whiteness & the New American Racism | Racial Segregation & Eugenical Science Between the Wars"
   },
   {
     "set_isbn": "9781032006338",
@@ -1764,6 +1771,13 @@
     "volume_titles": "Remote Sensing & Digital Image Processing | Remote Sensing & Digital Image Processing - Lab Man"
   },
   {
+    "set_isbn": "9781032464893",
+    "set_isbn_title": "Multi-Value Computing in Quantum Molecular Biology Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032464909, 9781032464916",
+    "volume_titles": "Multi-Value Computing in Quantum Molecular Biology V2 | Multi-Value Computing in Quantum Molecular Biology V1"
+  },
+  {
     "set_isbn": "9781032465142",
     "set_isbn_title": "Modern Chinese Complex Sentences Vol Set",
     "volume_count": 4,
@@ -1946,6 +1960,13 @@
     "volume_titles": "Chinese Narratology I | Chinese Narratology II"
   },
   {
+    "set_isbn": "9781032586939",
+    "set_isbn_title": "Contemporary New Confucianism Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032586847, 9781032586861",
+    "volume_titles": "Contemporary New Confucianism I | Contemporary New Confucianism II"
+  },
+  {
     "set_isbn": "9781032588537",
     "set_isbn_title": "Control of Heavy Metals in the Environment Vol Set",
     "volume_count": 3,
@@ -2072,6 +2093,13 @@
     "volume_titles": "International Commodity Control Vol 1 | Agricultural Commodity Markets Vol 2 | Modern Plantation in Third World Vol 3 | Commodity Models Forecasting & Policy Analysis Vol 4 | Commodity Policies Vol 5 | Tin Vol 6"
   },
   {
+    "set_isbn": "9781032697277",
+    "set_isbn_title": "Nouns and Verbs in Chinese Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032480886, 9781032697260",
+    "volume_titles": "Nouns & Verbs in Chinese I | Nouns & Verbs in Chinese II"
+  },
+  {
     "set_isbn": "9781032701745",
     "set_isbn_title": "Multidisciplinary Perspectives Character VOL SET",
     "volume_count": 2,
@@ -2105,6 +2133,13 @@
     "volume_count": 6,
     "associated_volumes": "9781032728209, 9781032732596, 9781032732732, 9781032735573, 9781032735993, 9781032744810",
     "volume_titles": "Water Planning in Britain | Networks for Water Policy | Water Resources in Arid Realm | British Rivers | British Seas | Life Before Drought"
+  },
+  {
+    "set_isbn": "9781032745336",
+    "set_isbn_title": "Food in Nineteenth-Century British History Vol Set",
+    "volume_count": 4,
+    "associated_volumes": "9781032975818, 9781032976259, 9781032976297, 9781032976303",
+    "volume_titles": "Food in Nineteenth-Century British History Vol I | Food in Nineteenth-Century British History Vol II | Food in Nineteenth-Century British History III | Food in Nineteenth-Century British History IV"
   },
   {
     "set_isbn": "9781032746302",
@@ -2415,6 +2450,13 @@
     "volume_titles": "Social Continuity & Rupture in Rural China I | Social Continuity & Rupture in Rural China II"
   },
   {
+    "set_isbn": "9781032959962",
+    "set_isbn_title": "Chinese Art Theory Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032958033, 9781032959979",
+    "volume_titles": "Chinese Art Theory I | Chinese Art Theory II"
+  },
+  {
     "set_isbn": "9781032963976",
     "set_isbn_title": "Data Science & Exploration in AI Vol Set",
     "volume_count": 2,
@@ -2548,11 +2590,25 @@
     "volume_titles": "The Aims & Outcomes of Social Policy Research | Housing Social Policy & the State | Introduction to Social Administration in Britain | Social Policy in the Irish Republic | An Introduction to the Study of Social Administration | Caring for Strangers | A Code of Ethics for Social Work | The Study of Social Policy | Poor Parents | Social Policy in Action | Introducing Social Policy | The English Prison Officer Since 1850 | To Do The Sick No Harm | Retiring to the Seaside"
   },
   {
+    "set_isbn": "9781041071990",
+    "set_isbn_title": "Routledge Editions: Politics of the European Union Vol Set",
+    "volume_count": 35,
+    "associated_volumes": "9781041047919, 9781041048084, 9781041049388, 9781041049555, 9781041049654, 9781041058274, 9781041058984, 9781041065371, 9781041067481, 9781041067740, 9781041073017, 9781041073284, 9781041078784, 9781041078982, 9781041079965, 9781041080091, 9781041081111, 9781041081166, 9781041081784, 9781041081869, 9781041081890, 9781041083122, 9781041083269, 9781041083771, 9781041085614, 9781041085959, 9781041096207, 9781041096948, 9781041097068, 9781041103707, 9781041106098, 9781041110316, 9781041110484, 9781041111931, 9781041112280",
+    "volume_titles": "European Organisations | Politics & Bureaucracy in the European Community | Political Parties in the European Community | European Political Parties | European Unity | The Limits of European Integration | Political Parties & Coalitions European Local Government | Federalism & Federation in Western Europe | The European Union & Democracy Promotion | Twentieth-Century Europe | Britain into Europe | Devolution in Context | After 1992 | The United States of Europe | Educating European Citizens | West European Prime Ministers | Parliaments in Western Europe | Tensions in the Territorial Politics of Western Europe | Eastern Europe | European Movement & the Council of Europe | The Failure of the State | Gaullism | Regions in Crisis | Social & Political Movements in Western Europe | European Parliamentary Procedure | Eastern Europe in the Post-War World | A Framework for Development | Britains Bilateral Links Within Western Europe | European Defence Cooperation | Spain the EEC & NATO | Europe | The Cost of Peace | Europe is my Country | The European Union & National Defence Policy | Regional Policy in the European Community"
+  },
+  {
     "set_isbn": "9781041073772",
     "set_isbn_title": "Contemporary Social Research Vol Set",
     "volume_count": 7,
     "associated_volumes": "9781041052036, 9781041053590, 9781041065821, 9781041069546, 9781041069652, 9781041069836, 9781041073680",
     "volume_titles": "Social Causality | Doing Secondary Analysis | Research Methods for Elite Studies | Social Measurement & Social Indicators | Data Construction in Social Surveys | The Survey Method | Critical Social Research"
+  },
+  {
+    "set_isbn": "9781041078968",
+    "set_isbn_title": "Routledge Library Editions Home and School Vol Set",
+    "volume_count": 11,
+    "associated_volumes": "9781041064800, 9781041064930, 9781041066248, 9781041066439, 9781041066743, 9781041067610, 9781041072928, 9781041073192, 9781041073321, 9781041074823, 9781041075660",
+    "volume_titles": "Parents as Educators | Schooling Welfare & Parental Responsibility | Moral Education | The Contribution of Parents to School Effectiveness | Children & Parents Enjoying Reading | Working with Parents | Listening to Parents | Home–School Work in Multicultural Settings | Parent Power | Parents Should Be Heard | Parents & Teachers"
   },
   {
     "set_isbn": "9781041089872",
@@ -2595,6 +2651,20 @@
     "volume_count": 6,
     "associated_volumes": "9781041082958, 9781041083160, 9781041084211, 9781041088356, 9781041089148, 9781041089575",
     "volume_titles": "Policy and Action Vol 1 | Housing and Public Policy Vol 4 | Public Policy and Economic Theory Vol 6 | Public Policy and the Tax System Vol 3 | Family Doctors and Public Policy Vol 2 | Implementing Public Policy Vol 5"
+  },
+  {
+    "set_isbn": "9781041102908",
+    "set_isbn_title": "The Prime Ministers: 1721-1974 Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781041102632, 9781041102786",
+    "volume_titles": "The Prime Ministers Vol 1 | The Prime Ministers Vol 2"
+  },
+  {
+    "set_isbn": "9781041104186",
+    "set_isbn_title": "Towards Resilient Societies Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781041084716, 9781041104162",
+    "volume_titles": "The Synergy of Religion Education Health Science & Tech I | Synergy of Religion Education Health Science & Tech"
   },
   {
     "set_isbn": "9781041110644",
@@ -4151,6 +4221,13 @@
     "volume_titles": "Readers Guide to British History Vol 1 | Readers Guide to British History Vol 2"
   },
   {
+    "set_isbn": "9781579583880",
+    "set_isbn_title": "Encyclopedia of the Developing World Vol Set",
+    "volume_count": 3,
+    "associated_volumes": "9780415976626, 9780415976633, 9780415976640",
+    "volume_titles": "Encyclopedia of the Developing World Vol 1 | Encyclopedia of the Developing World Vol 2 | Encyclopedia of the Developing World Vol 3"
+  },
+  {
     "set_isbn": "9781598744088",
     "set_isbn_title": "Community Oral History Toolkit - 5 VOLUME SET",
     "volume_count": 5,
@@ -4366,6 +4443,13 @@
     "volume_count": 2,
     "associated_volumes": "9781774919422, 9781774919446",
     "volume_titles": "Neuro-Nutraceuticals & Drug Discovery & Delivery in Alzhei | Neuro-Nutraceuticals & Drug Discovery & Delivery in Alzhei"
+  },
+  {
+    "set_isbn": "9781774919460",
+    "set_isbn_title": "Molecular Genetic Structure Mechanism & Function Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781774918784, 9781774919484",
+    "volume_titles": "Molecular Genetics Structures Mechanisms & Functions Vol 1 | Molecular Genetics Structures Mechanisms & Functions Vol 2"
   },
   {
     "set_isbn": "9781782204633",
