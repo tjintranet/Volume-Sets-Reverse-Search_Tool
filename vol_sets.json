@@ -56,6 +56,13 @@
     "volume_titles": "Scientific & Medical Knowledge - V1 Curiosity | Scientific & Medical Knowledge - V2 Humanity | Scientific & Medical Knowledge - V3 Authority | Scientific & Medical Knowledge - V4 Uncertainty"
   },
   {
+    "set_isbn": "9780367477011",
+    "set_isbn_title": "19th-C Comms A Documentary History 1780–1918 Vol Set",
+    "volume_count": 4,
+    "associated_volumes": "9780367477059, 9780367477073, 9780367477103, 9780367477110",
+    "volume_titles": "19th-C Comms A Documentary History 1780–1918 Vol I | 19th-C Comms A Documentary History 1780–1918 Vol II | 19th-C Comms A Documentary History 1780–1918 Vol III | 19th-C Comms A Documentary History 1780–1918 Vol IV"
+  },
+  {
     "set_isbn": "9780367499488",
     "set_isbn_title": "Swarm Intelligence Algorithms Vol Set",
     "volume_count": 2,
@@ -2289,6 +2296,13 @@
     "volume_titles": "Test-Tube Women | Theories of Womens Studies | Man-Made Women | Women & Symbolic Interaction | Rapiers & Battleaxes | Womens Lives | Women Attached | Women Social Science & Public Policy | Women in the Community | Gendered Jobs & Social Change | Infertility | Controlling Women | Womens Issues in Social Policy | Women Servants of the State 1870–1938 | Womens Partnership in the New World | Women & Sometimes Men | Woman & Society | Political Woman | Gender Sex & the Law | Women of Ideas"
   },
   {
+    "set_isbn": "9781032874081",
+    "set_isbn_title": "Security Leader Comms Playbook Digital Workforce Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9780367570019, 9781032323725",
+    "volume_titles": "The Security Leader’s Communication Playbook | Leading Digital Workforce"
+  },
+  {
     "set_isbn": "9781032875453",
     "set_isbn_title": "Controlling Privacy and the Use of Data Assets Set",
     "volume_count": 2,
@@ -2462,6 +2476,13 @@
     "volume_count": 2,
     "associated_volumes": "9781032737393, 9781032963907",
     "volume_titles": "Data Science & Exploration in AI Vol 1 | Data Science & Exploration in AI Vol 2"
+  },
+  {
+    "set_isbn": "9781032970011",
+    "set_isbn_title": "Prevent Dispute Risk Constructing Harmonious Soc Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032970073, 9781032970097",
+    "volume_titles": "Dispute & Risk Preventing in Modern China | Dispute & Resolution Mechanism in Modern China"
   },
   {
     "set_isbn": "9781032976402",
@@ -2693,6 +2714,20 @@
     "volume_count": 2,
     "associated_volumes": "9781032125473, 9781032487700",
     "volume_titles": "Privacy in Practice | Safeguarding the Future"
+  },
+  {
+    "set_isbn": "9781041116585",
+    "set_isbn_title": "Routledge Editions: Nurse Education & Nursing Care Vol Set",
+    "volume_count": 20,
+    "associated_volumes": "9781041102434, 9781041103240, 9781041106777, 9781041107743, 9781041110880, 9781041111320, 9781041111450, 9781041111542, 9781041111771, 9781041111917, 9781041112136, 9781041112389, 9781041112464, 9781041112969, 9781041113294, 9781041113430, 9781041114000, 9781041115434, 9781041116103, 9781041116318",
+    "volume_titles": "Interpersonal Skills in Nursing | Social Skills Training & Psychiatric Nursing | International Issues in Nursing Research | Nursing Management & Education | Community Nursing | The Nurse as Therapist | Behaviour Therapy Nursing | Research into Nurse Education | Nursing Education | Social Skills for Nursing Practice | Nurses | Nurse Education & the Curriculum | The Nursing Curriculum | Nursing in Contemporary Society | Origins of General Nursing | Nursing History | Primary Nursing | Occupational Health Nursing | Community Medicine | Psychology for Student Nurses"
+  },
+  {
+    "set_isbn": "9781041148319",
+    "set_isbn_title": "Routledge Library Editions: George Bernard Shaw Vol Set",
+    "volume_count": 6,
+    "associated_volumes": "9781041115328, 9781041115366, 9781041116677, 9781041117483, 9781041141990, 9781041146629",
+    "volume_titles": "The Quintessence of Bernard Shaw | Bernard Shaw | Shaw – “The Chucker Out” | The Shavian Playground | Bernard Shaw Director | Bernard Shaw Playwright"
   },
   {
     "set_isbn": "9781108703093",
@@ -3561,6 +3596,13 @@
     "volume_count": 5,
     "associated_volumes": "9781138925236, 9781138927513, 9781138927919, 9781138937635, 9781138942523",
     "volume_titles": "Anxiety and Stress Management | Anxiety in Children | Anxiety in Childhood and Adolescence | Anxiety and Self-Focused Attention | The Psychology of Anxiety"
+  },
+  {
+    "set_isbn": "9781138925359",
+    "set_isbn_title": "The History of the Philosophy of Mind Vol Set",
+    "volume_count": 6,
+    "associated_volumes": "9781138243927, 9781138243934, 9781138243941, 9781138243958, 9781138243965, 9781138243972",
+    "volume_titles": "Philosophy of Mind in Antiquity | Philosophy of Mind in the Early & High Middle Ages | Philosophy of Mind in the Late Middle Ages & Renaissance | Philosophy of Mind in the Early Modern & Modern Ages | Philosophy of Mind in the Nineteenth Century | Philosophy of Mind in the Twentieth & Twenty-First Centuri"
   },
   {
     "set_isbn": "9781138925960",
@@ -4443,6 +4485,13 @@
     "volume_count": 2,
     "associated_volumes": "9781774919422, 9781774919446",
     "volume_titles": "Neuro-Nutraceuticals & Drug Discovery & Delivery in Alzhei | Neuro-Nutraceuticals & Drug Discovery & Delivery in Alzhei"
+  },
+  {
+    "set_isbn": "9781774918920",
+    "set_isbn_title": "Algal Biomass Technology and Research Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781774918982, 9781774919002",
+    "volume_titles": "Algal Biomass Technology & Research Vol 1 | Algal Biomass Technology & Research Vol 2"
   },
   {
     "set_isbn": "9781774919460",
