@@ -1743,6 +1743,13 @@
     "volume_titles": "Applications of Functional Foods | Molecular Mechanisms Action Funct Foods V2"
   },
   {
+    "set_isbn": "9781032424309",
+    "set_isbn_title": "Textbook of Ion Channels Vol Set",
+    "volume_count": 3,
+    "associated_volumes": "9780367560492, 9780367560812, 9781032408040",
+    "volume_titles": "Textbook of Ion Channels Volume I | Textbook of Ion Channels Volume II | Textbook of Ion Channels Volume III"
+  },
+  {
     "set_isbn": "9781032425375",
     "set_isbn_title": "Advances in Frontier Research Vol Set",
     "volume_count": 2,
@@ -2014,6 +2021,13 @@
     "volume_count": 11,
     "associated_volumes": "9781032612171, 9781032612690, 9781032612812, 9781032613048, 9781032616834, 9781032617046, 9781032617114, 9781032617879, 9781032618418, 9781032618838, 9781032622309",
     "volume_titles": "Sekou Toures Guinea | Military in African Politics | Military Regimes in Africa | Ghana Under Military Rule | Botswana | Kingdoms of Yoruba | Warfare & Diplomacy Pre-Colonial West Africa | Politics in Organization of African Unity | Nigerian Army | Swahili | Ghana First Republic 1960-1966"
+  },
+  {
+    "set_isbn": "9781032625850",
+    "set_isbn_title": "Wolfhart Heinrichs Essays & Articles on Arabic Lit Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032046402, 9781032046426",
+    "volume_titles": "Wolfhart Heinrichs Essays & Articles on Arabic Lit Vol 1 | Wolfhart Heinrichs Essays & Articles on Arabic Lit Vol 2"
   },
   {
     "set_isbn": "9781032626697",
@@ -2485,6 +2499,13 @@
     "volume_titles": "Dispute & Risk Preventing in Modern China | Dispute & Resolution Mechanism in Modern China"
   },
   {
+    "set_isbn": "9781032972817",
+    "set_isbn_title": "Recent Trends in Intelligent Computing & Comms Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032972688, 9781032972770",
+    "volume_titles": "Recent Trends in Intelligent Computing & Comms Vol 1 | Recent Trends in Intelligent Computing & Comms Vol 2"
+  },
+  {
     "set_isbn": "9781032976402",
     "set_isbn_title": "Chinese Social Media Vol Set",
     "volume_count": 2,
@@ -2653,6 +2674,13 @@
     "volume_titles": "What Great Teachers Do Differently | Study Guide - What Great Teachers Do Differently | Your First Year | Classroom Management From the Ground Up"
   },
   {
+    "set_isbn": "9781041094364",
+    "set_isbn_title": "Asymmetry and Markedness Theory Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781041094401, 9781041094432",
+    "volume_titles": "Asymmetry & Markedness Theory I | Asymmetry & Markedness Theory II"
+  },
+  {
     "set_isbn": "9781041095545",
     "set_isbn_title": "Ironwill 360° Leadership and Finding Your Granite Vol Set",
     "volume_count": 2,
@@ -2716,11 +2744,25 @@
     "volume_titles": "Privacy in Practice | Safeguarding the Future"
   },
   {
+    "set_isbn": "9781041111740",
+    "set_isbn_title": "Fractional Random Vibrations Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781041110194, 9781041110217",
+    "volume_titles": "Fractional Random Vibrations I | Fractional Random Vibrations II"
+  },
+  {
     "set_isbn": "9781041116585",
     "set_isbn_title": "Routledge Editions: Nurse Education & Nursing Care Vol Set",
     "volume_count": 20,
     "associated_volumes": "9781041102434, 9781041103240, 9781041106777, 9781041107743, 9781041110880, 9781041111320, 9781041111450, 9781041111542, 9781041111771, 9781041111917, 9781041112136, 9781041112389, 9781041112464, 9781041112969, 9781041113294, 9781041113430, 9781041114000, 9781041115434, 9781041116103, 9781041116318",
     "volume_titles": "Interpersonal Skills in Nursing | Social Skills Training & Psychiatric Nursing | International Issues in Nursing Research | Nursing Management & Education | Community Nursing | The Nurse as Therapist | Behaviour Therapy Nursing | Research into Nurse Education | Nursing Education | Social Skills for Nursing Practice | Nurses | Nurse Education & the Curriculum | The Nursing Curriculum | Nursing in Contemporary Society | Origins of General Nursing | Nursing History | Primary Nursing | Occupational Health Nursing | Community Medicine | Psychology for Student Nurses"
+  },
+  {
+    "set_isbn": "9781041120827",
+    "set_isbn_title": "Routledge Library Editions: Publishing & Printing Vol Set",
+    "volume_count": 11,
+    "associated_volumes": "9781041106906, 9781041107248, 9781041107835, 9781041108894, 9781041109020, 9781041109211, 9781041112297, 9781041115014, 9781041116554, 9781041117308, 9781041117896",
+    "volume_titles": "A History of the National Graphical Association | The Lamp of Learning | Dr Johnsons Printer | Pioneers in Printing | Electronic Publishing | The House of Routledge 1834–1934 | From Swan Sonnenschein to George Allen & Unwin Ltd | Printing in London | The Book World Today | British Book Trade Organisation | Printer to the House"
   },
   {
     "set_isbn": "9781041148319",
@@ -4499,6 +4541,13 @@
     "volume_count": 2,
     "associated_volumes": "9781774918784, 9781774919484",
     "volume_titles": "Molecular Genetics Structures Mechanisms & Functions Vol 1 | Molecular Genetics Structures Mechanisms & Functions Vol 2"
+  },
+  {
+    "set_isbn": "9781774919903",
+    "set_isbn_title": "Biodiversity of the Himalaya Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781774919927, 9781774919958",
+    "volume_titles": "Biodiversity of the Himalaya Vol 1 | Biodiversity of the Himalaya Vol 2"
   },
   {
     "set_isbn": "9781782204633",
