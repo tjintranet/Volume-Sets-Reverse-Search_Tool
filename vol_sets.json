@@ -56,6 +56,13 @@
     "volume_titles": "Scientific & Medical Knowledge - V1 Curiosity | Scientific & Medical Knowledge - V2 Humanity | Scientific & Medical Knowledge - V3 Authority | Scientific & Medical Knowledge - V4 Uncertainty"
   },
   {
+    "set_isbn": "9780367469962",
+    "set_isbn_title": "Humans Animals & U.S. Society in Nineteenth C Vol Set",
+    "volume_count": 5,
+    "associated_volumes": "9780367470005, 9780367470029, 9780367470036, 9780367470098, 9780367470104",
+    "volume_titles": "Humans Animals & U.S. Society in Nineteenth C Vol I | Humans Animals & U.S. Society in Nineteenth C Vol II | Humans Animals & U.S. Society in Nineteenth C Vol III | Humans Animals & U.S. Society in Nineteenth C Vol IV | Humans Animals & U.S. Society in Nineteenth C Vol V"
+  },
+  {
     "set_isbn": "9780367477011",
     "set_isbn_title": "19th-C Comms A Documentary History 1780–1918 Vol Set",
     "volume_count": 4,
@@ -1498,6 +1505,13 @@
     "volume_titles": "Confucian Reform in Choson Korea V1 | Confucian Reform in Choson Korea V2 | Confucian Reform in Choson Korea V3 | Confucian Reform in Choson Korea V4"
   },
   {
+    "set_isbn": "9781032181882",
+    "set_isbn_title": "Scottish Art in the Industrial Age 1800-1914 Vol Set",
+    "volume_count": 4,
+    "associated_volumes": "9781032181905, 9781032181929, 9781032181936, 9781032181950",
+    "volume_titles": "Scottish Art in the Industrial Age 1800-1914 Vol I | Scottish Art in the Industrial Age 1800-1914 Vol II | Scottish Art in the Industrial Age 1800-1914 Vol III | Scottish Art in the Industrial Age 1800-1914 Vol IV"
+  },
+  {
     "set_isbn": "9781032201801",
     "set_isbn_title": "Flood Hbk Vol Set",
     "volume_count": 3,
@@ -1580,6 +1594,13 @@
     "volume_count": 3,
     "associated_volumes": "9781032250397, 9781032252186, 9781032252223",
     "volume_titles": "Botanical Gardens Plant Conservation V2 | Botanical Gardens Plant Conservation V1 | Botanical Gardens Plant Conservation V3"
+  },
+  {
+    "set_isbn": "9781032282626",
+    "set_isbn_title": "Death Loss Memory & Mourning in 19th C 1780-1914 Vol Set",
+    "volume_count": 4,
+    "associated_volumes": "9781032282633, 9781032282640, 9781032282657, 9781032282664",
+    "volume_titles": "Death Loss Memory & Mourning in Long 19th C 1780–1914 Vol I | Death Loss Memory & Mourning in 19th C 1780–1914 Vol II | Death Loss Memory & Mourning in 19th C 1780–1914 Vol III | Death Loss Memory & Mourning in 19th C 1780–1914 Vol IV"
   },
   {
     "set_isbn": "9781032285191",
@@ -1771,6 +1792,13 @@
     "volume_titles": "Manufacturing Engineering & Materials Science | Manufacturing Technologies & Production Systems"
   },
   {
+    "set_isbn": "9781032436036",
+    "set_isbn_title": "American Imperialism in Long Nineteenth Century Vol Set",
+    "volume_count": 4,
+    "associated_volumes": "9781032436043, 9781032436050, 9781032436067, 9781032436074",
+    "volume_titles": "American Imperialism in Long Nineteenth Century Vol I | American Imperialism in Long Nineteenth Century Vol II | American Imperialism in Long Nineteenth Century Vol III | American Imperialism in Long Nineteenth Century Vol IV"
+  },
+  {
     "set_isbn": "9781032461021",
     "set_isbn_title": "Multiple-Valued Computing - 2 VOL SET",
     "volume_count": 2,
@@ -1895,6 +1923,13 @@
     "volume_count": 2,
     "associated_volumes": "9781032448398, 9781032532615",
     "volume_titles": "Discourse Particles in Asian Languages Vol I | Discourse Particles in Asian Languages Vol 2"
+  },
+  {
+    "set_isbn": "9781032548258",
+    "set_isbn_title": "Meteorology in Nineteenth-Century Society Vol Set",
+    "volume_count": 4,
+    "associated_volumes": "9781032548272, 9781032548289, 9781032548296, 9781032548302",
+    "volume_titles": "Meteorology in Nineteenth-Century Society Vol I | Meteorology in Nineteenth-Century Society Vol II | Meteorology in Nineteenth-Century Society Vol III | Meteorology in Nineteenth-Century Society Vol IV"
   },
   {
     "set_isbn": "9781032548746",
@@ -2070,6 +2105,13 @@
     "volume_count": 2,
     "associated_volumes": "9781032548241, 9781032623344",
     "volume_titles": "Deep Learning for Multimedia Processing Apps Vol 1 | Deep Learning for Multimedia Processing Apps Vol 2"
+  },
+  {
+    "set_isbn": "9781032666976",
+    "set_isbn_title": "Rendering Chinese Classics into English Vol Set",
+    "volume_count": 3,
+    "associated_volumes": "9781041080756, 9781041080763, 9781041080770",
+    "volume_titles": "Rendering Chinese Classics into English I | Rendering Chinese Classics into English II | Rendering Chinese Classics into English III"
   },
   {
     "set_isbn": "9781032671659",
@@ -2506,6 +2548,13 @@
     "volume_titles": "Recent Trends in Intelligent Computing & Comms Vol 1 | Recent Trends in Intelligent Computing & Comms Vol 2"
   },
   {
+    "set_isbn": "9781032975764",
+    "set_isbn_title": "Routledge Library Editions: Economics and Society Vol Set",
+    "volume_count": 40,
+    "associated_volumes": "9781041127512, 9781041127925, 9781041128724, 9781041129165, 9781041129653, 9781041129929, 9781041131106, 9781041131205, 9781041131229, 9781041131281, 9781041131595, 9781041131649, 9781041134763, 9781041135685, 9781041135999, 9781041136224, 9781041136477, 9781041139812, 9781041139966, 9781041140313, 9781041140856, 9781041140931, 9781041140955, 9781041143475, 9781041143635, 9781041144472, 9781041144564, 9781041151661, 9781041151777, 9781041152156, 9781041154440, 9781041154884, 9781041155157, 9781041155294, 9781041156079, 9781041156215, 9781041156284, 9781041156505, 9781041157304, 9781041157571",
+    "volume_titles": "An Introduction to Urban Renewal | The Allocation of Resources | An Economic History of the British Building Industry 1815– | The Coming of the Welfare State | Intervention in the Mixed Economy | Planning & Economic Growth | Politics & Production in the Early Nineteenth Century | Public Opinion Ideology & State Welfare | State Enterprise | State Responsiveness & State Activism | Government Policy & Industrial Change | The History of Trade Union Organisation in the North Staff | Britain 1906–1951 | State & Economy in Contemporary Capitalism | Trade Signs & their Origin | British Economic Performance 1880–1980 | Industrial Trade Associations | Applied Measures for Promoting Technological Growth | Crisis in the East European Economy | England in Transition | Growth in the British Economy | The Industrial Crisis | Social Economics | The Economics of Human Happiness | Foreign Investment in Eastern Europe | Investment Economics | The Price Level | The Political Economy of Tolerable Survival | Tradefull Merchants | Youth Unemployment | Cost Planning & Building Economics | The Economics of the Australian Service Sector | Marketing in a Competitive Economy | Readings in Business Cycles & National Income | The Retail Environment | Social Clauses & International Trade | Technological Growth & Social Change | Technology & the Welfare State | States of Emergency | The U.S.S.R."
+  },
+  {
     "set_isbn": "9781032976402",
     "set_isbn_title": "Chinese Social Media Vol Set",
     "volume_count": 2,
@@ -2770,6 +2819,20 @@
     "volume_count": 6,
     "associated_volumes": "9781041115328, 9781041115366, 9781041116677, 9781041117483, 9781041141990, 9781041146629",
     "volume_titles": "The Quintessence of Bernard Shaw | Bernard Shaw | Shaw – “The Chucker Out” | The Shavian Playground | Bernard Shaw Director | Bernard Shaw Playwright"
+  },
+  {
+    "set_isbn": "9781041160205",
+    "set_isbn_title": "Apps of AI in Smart Technologies and Manufacturing Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032991276, 9781041159360",
+    "volume_titles": "Apps of AI in Smart Technologies and Manufacturing Vol 1 | Apps of AI in Smart Technologies and Manufacturing Vol 2"
+  },
+  {
+    "set_isbn": "9781041162339",
+    "set_isbn_title": "Routledge Library Editions: Housing Vol Set",
+    "volume_count": 15,
+    "associated_volumes": "9781041133254, 9781041133506, 9781041134060, 9781041134145, 9781041134404, 9781041134466, 9781041135623, 9781041135715, 9781041135883, 9781041136255, 9781041136910, 9781041137351, 9781041140696, 9781041140863, 9781041162292",
+    "volume_titles": "National Housing Finance Systems | A Social History of Housing 1815–1985 | Public Housing | The Eclipse of Council Housing | Housing States & Localities | Housing & Family Wealth | Housing & Identity | Housing & Homelessness | The Rebuilding of Britain | Housing Policy & the Housing System | In Search of a Home | Housing & the State | Housing Policy in Developing Countries | The Economics of Housing Policy | The Myth of Home Ownership"
   },
   {
     "set_isbn": "9781108703093",
@@ -4550,6 +4613,13 @@
     "volume_titles": "Biodiversity of the Himalaya Vol 1 | Biodiversity of the Himalaya Vol 2"
   },
   {
+    "set_isbn": "9781779640284",
+    "set_isbn_title": "Chromosomal and Genomic Structures and Functions Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781779640246, 9781779640260",
+    "volume_titles": "Chromosomal & Genomic Structures & Functions | Chromosomal & Genomic Structures & Functions"
+  },
+  {
     "set_isbn": "9781782204633",
     "set_isbn_title": "The Collected Works of Melanie Klein Vol Set",
     "volume_count": 4,
@@ -5033,11 +5103,39 @@
     "volume_titles": "Sustainable Agriculture for Food Energy and Industry V1 | Sustainable Agriculture for Food Energy and Industry V2"
   },
   {
+    "set_isbn": "9781898823421",
+    "set_isbn_title": "The History of Manchuria 1840-1948 Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781041227182, 9781041227199",
+    "volume_titles": "The History of Manchuria, 1840-1948 Vol 1 | The History of Manchuria, 1840-1948 Vol 2"
+  },
+  {
+    "set_isbn": "9781898823612",
+    "set_isbn_title": "Culture Power & Politics in T-P Japan 1854-1899 Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781041227380, 9781041227397",
+    "volume_titles": "Culture Power & Politics in T-P Japan 1854-1899 Vol 1 | Culture Power & Politics in T-P Japan 1854-1899 Vol 2"
+  },
+  {
+    "set_isbn": "9781912961252",
+    "set_isbn_title": "Accessing Technical Education in Modern Japan Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781041227526, 9781041227564",
+    "volume_titles": "Accessing Technical Education in Modern Japan Vol 1 | Accessing Technical Education in Modern Japan Vol 2"
+  },
+  {
     "set_isbn": "9781926895758",
     "set_isbn_title": "Quantum-Chemical Calculation Unique Molecular Syst Vol Set",
     "volume_count": 2,
     "associated_volumes": "9781032853307, 9781032853314",
     "volume_titles": "Quantum-Chemical Calculation Unique Molecular Syst Vol 1 | Quantum-Chemical Calculation Unique Molecular Syst Vol 2"
+  },
+  {
+    "set_isbn": "9781998511945",
+    "set_isbn_title": "Crude Drugs of Unani Medicine Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781998511969, 9781998511983",
+    "volume_titles": "Crude Drugs of Unani Medicine | Crude Drugs of Unani Medicine"
   },
   {
     "set_isbn": "9782881240706",
