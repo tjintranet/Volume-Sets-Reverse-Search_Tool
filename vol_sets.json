@@ -203,6 +203,13 @@
     "volume_titles": "Active Control of Noise Vibration V1 | Active Control of Noise Vibration V2"
   },
   {
+    "set_isbn": "9780367675615",
+    "set_isbn_title": "Bioprocess Engineering and Technology Vol Set",
+    "volume_count": 3,
+    "associated_volumes": "9780367675622, 9780367675646, 9780367675677",
+    "volume_titles": "Bioprocess Engineering and Technology Vol I | Bioprocess Engineering and Technology Vol II | Bioprocess Engineering and Technology Vol III"
+  },
+  {
     "set_isbn": "9780367689728",
     "set_isbn_title": "Handbook of Superconductivity Vol Set",
     "volume_count": 3,
