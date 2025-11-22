@@ -2090,7 +2090,7 @@
     "set_isbn_title": "Human Activity and Behavior Analysis Vol Set",
     "volume_count": 2,
     "associated_volumes": "9781032430812, 9781032636030",
-    "volume_titles": "Human Activity & Behavior Analysis | Human Activity & Behavior Analysis"
+    "volume_titles": "Human Activity & Behavior Analysis Vol 1 | Human Activity & Behavior Analysis"
   },
   {
     "set_isbn": "9781032646046",
@@ -2245,6 +2245,13 @@
     "volume_count": 2,
     "associated_volumes": "9780367209933, 9781032281285",
     "volume_titles": "Working Welsh | Thinking Welsh"
+  },
+  {
+    "set_isbn": "9781032758688",
+    "set_isbn_title": "Developments in Narrative Structure Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032752563, 9781032755779",
+    "volume_titles": "Developments in Narrative Structure | Developments in Narrative Structure"
   },
   {
     "set_isbn": "9781032759494",
@@ -2741,7 +2748,7 @@
     "set_isbn_title": "Todd Whitaker Great Teachers 4 Book Bundle Vol Set",
     "volume_count": 4,
     "associated_volumes": "9780367344641, 9780367550004, 9781032281247, 9781138552319",
-    "volume_titles": "What Great Teachers Do Differently | Study Guide - What Great Teachers Do Differently | Your First Year | Classroom Management From the Ground Up"
+    "volume_titles": "What Great Teachers Do Differently | What Great Teachers Do Differently - Study Guide | Your First Year | Classroom Management From the Ground Up"
   },
   {
     "set_isbn": "9781041094364",
@@ -2856,6 +2863,13 @@
     "volume_titles": "The Quintessence of Bernard Shaw | Bernard Shaw | Shaw – “The Chucker Out” | The Shavian Playground | Bernard Shaw Director | Bernard Shaw Playwright"
   },
   {
+    "set_isbn": "9781041156314",
+    "set_isbn_title": "What Great Teachers Do Differently Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9780367344641, 9780367550004",
+    "volume_titles": "What Great Teachers Do Differently | What Great Teachers Do Differently - Study Guide"
+  },
+  {
     "set_isbn": "9781041160205",
     "set_isbn_title": "Apps of AI in Smart Technologies and Manufacturing Vol Set",
     "volume_count": 2,
@@ -2868,6 +2882,27 @@
     "volume_count": 15,
     "associated_volumes": "9781041133254, 9781041133506, 9781041134060, 9781041134145, 9781041134404, 9781041134466, 9781041135623, 9781041135715, 9781041135883, 9781041136255, 9781041136910, 9781041137351, 9781041140696, 9781041140863, 9781041162292",
     "volume_titles": "National Housing Finance Systems | A Social History of Housing 1815–1985 | Public Housing | The Eclipse of Council Housing | Housing States & Localities | Housing & Family Wealth | Housing & Identity | Housing & Homelessness | The Rebuilding of Britain | Housing Policy & the Housing System | In Search of a Home | Housing & the State | Housing Policy in Developing Countries | The Economics of Housing Policy | The Myth of Home Ownership"
+  },
+  {
+    "set_isbn": "9781041167037",
+    "set_isbn_title": "Addressing Obsessive Compulsive Behavior Autism Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032712307, 9781032712314",
+    "volume_titles": "Addressing Obsessive Compulsive Behavior in Autism CBT | I Believe in Me Not OCB!"
+  },
+  {
+    "set_isbn": "9781041167693",
+    "set_isbn_title": "Child-Parent Relationship Therapy (CPRT) Treatment Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781138688940, 9781138689039",
+    "volume_titles": "Child-Parent Relationship Therapy (CPRT) Treatment Manual | Child-Parent Relationship Therapy (CPRT) Filial Therapy"
+  },
+  {
+    "set_isbn": "9781041168188",
+    "set_isbn_title": "Compassion Focused Group Therapy Uni Counseling Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032064802, 9781032064826",
+    "volume_titles": "Compassion Focused Group Therapy | Compassion Focused Therapy Participant Workbook"
   },
   {
     "set_isbn": "9781108703093",
