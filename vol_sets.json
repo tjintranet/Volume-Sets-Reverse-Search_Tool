@@ -882,6 +882,13 @@
     "volume_titles": "Relating Events in Narrative Vol 2 | Relating Events in Narrative Vol 1"
   },
   {
+    "set_isbn": "9780415654296",
+    "set_isbn_title": "Studies in Applied Economics Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781041275411, 9781041275428",
+    "volume_titles": "Studies in Applied Economics Vol I | Studies in Applied Economics Volume II"
+  },
+  {
     "set_isbn": "9780415660761",
     "set_isbn_title": "Critical Criminology - 4 Vol Set",
     "volume_count": 4,
@@ -2191,11 +2198,25 @@
     "volume_titles": "Multidisciplinary Perspectives Character Vol I | Multidisciplinary Perspectives Character Vol 2"
   },
   {
+    "set_isbn": "9781032701783",
+    "set_isbn_title": "Multidisciplinary Perspectives on Character Dev Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032169767, 9781032172453",
+    "volume_titles": "Multidisciplinary Perspectives on Character Dev Vol I | Multidisciplinary Perspectives on Character Dev Vol II"
+  },
+  {
     "set_isbn": "9781032713397",
     "set_isbn_title": "An Introduction to Spatial Data Science Vol Set",
     "volume_count": 2,
     "associated_volumes": "9781032229188, 9781032713021",
     "volume_titles": "An Introduction to Spatial Data Science Vol 1 | An Introduction to Spatial Data Science Vol 2"
+  },
+  {
+    "set_isbn": "9781032725710",
+    "set_isbn_title": "Chinese Civil Adjudications Vol Set",
+    "volume_count": 3,
+    "associated_volumes": "9781032725659, 9781032725680, 9781032725703",
+    "volume_titles": "Chinese Civil Adjudications I | Chinese Civil Adjudications II | Chinese Civil Adjudications III"
   },
   {
     "set_isbn": "9781032726182",
@@ -2422,6 +2443,13 @@
     "volume_titles": "Statistical Mechanics of Liquids & Solutions Vol 2 | Statistical Mechanics of Liquids & Solutions Vol 1"
   },
   {
+    "set_isbn": "9781032897226",
+    "set_isbn_title": "Statistical Mechanics of Liquids and Solutions Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9780367477905, 9781032261621",
+    "volume_titles": "Statistical Mechanics of Liquids & Solutions Vol I | Statistical Mechanics of Liquids & Solutions Vol II"
+  },
+  {
     "set_isbn": "9781032903835",
     "set_isbn_title": "Radioactivity Vol Set",
     "volume_count": 2,
@@ -2490,6 +2518,13 @@
     "volume_count": 2,
     "associated_volumes": "9781032931401, 9781032931418",
     "volume_titles": "Susanna Hopton I & II | Susanna Hopton I & II"
+  },
+  {
+    "set_isbn": "9781032917788",
+    "set_isbn_title": "Encyclopedia of Jewish Folklore and Traditions Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781041274285, 9781041274339",
+    "volume_titles": "Encyclopedia of Jewish Folklore & Traditions Vol 1 | Encyclopedia of Jewish Folklore & Traditions Vol 2"
   },
   {
     "set_isbn": "9781032917887",
@@ -2784,6 +2819,13 @@
     "volume_count": 2,
     "associated_volumes": "9781041102632, 9781041102786",
     "volume_titles": "The Prime Ministers Vol 1 | The Prime Ministers Vol 2"
+  },
+  {
+    "set_isbn": "9781041103202",
+    "set_isbn_title": "Artificial Intelligence and Sustainable Innovation Vol Set",
+    "volume_count": 3,
+    "associated_volumes": "9781041101994, 9781041102403, 9781041223146",
+    "volume_titles": "Artificial Intelligence & Sustainable Innovation Vol 1 | Artificial Intelligence & Sustainable Innovation Vol 2 | Artificial Intelligence & Sustainable Innovation Vol 3"
   },
   {
     "set_isbn": "9781041104186",
