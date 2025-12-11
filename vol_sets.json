@@ -1372,6 +1372,13 @@
     "volume_titles": "Anthropology & Slavery at the Dawn of White Supremacy | Unmarking Whiteness & the New American Racism | Racial Segregation & Eugenical Science Between the Wars"
   },
   {
+    "set_isbn": "9781009540643",
+    "set_isbn_title": "The Cambridge History of Later Latin Literature 2 vol set",
+    "volume_count": 2,
+    "associated_volumes": "9781108476379, 9781316510148",
+    "volume_titles": "The Cambridge History of Later Latin Literature v1 | The Cambridge History of Later Latin Literature v2"
+  },
+  {
     "set_isbn": "9781032006338",
     "set_isbn_title": "Geospatial Info Hbk for Water Resources Vol Set",
     "volume_count": 3,
@@ -2777,6 +2784,13 @@
     "volume_count": 4,
     "associated_volumes": "9781138858695, 9781138858718, 9781138858732, 9781138858756",
     "volume_titles": "Descriptosaurus - Action & Adventure | Descriptosaurus - Myths & Legends | Descriptosaurus - Ghost Stories | Descriptosaurus - Fantasy"
+  },
+  {
+    "set_isbn": "9781041090427",
+    "set_isbn_title": "John Hattie Visible Learning 4 Book Bundle Volume Set",
+    "volume_count": 4,
+    "associated_volumes": "9780415476188, 9780415690157, 9781032462035, 9781138599895",
+    "volume_titles": "Visible Learning A Synthesis Relating to Achievement Vol 1 | Visible Learning for Teachers Vol 2 | Visible Learning The Sequel Vol 4 | Visible Learning Feedback Vol 3"
   },
   {
     "set_isbn": "9781041091325",
