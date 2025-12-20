@@ -1989,10 +1989,10 @@
   },
   {
     "set_isbn": "9781032550213",
-    "set_isbn_title": "Controlling Privacy Use of Data Assets - 2 VOL SET",
+    "set_isbn_title": "Controlling Privacy & Use of Data Assets - Vol Set",
     "volume_count": 2,
-    "associated_volumes": "9781032039121, 9781032185163",
-    "volume_titles": "Controlling Privacy Use of Data Assets - V1 | Controlling Privacy & Use Data Assets - V2"
+    "associated_volumes": "9781032039138, 9781032185187",
+    "volume_titles": "Controlling Privacy & Use of Data Assets - V1 | Controlling Privacy & Use of Data Assets - V2"
   },
   {
     "set_isbn": "9781032555492",
@@ -2419,7 +2419,7 @@
     "set_isbn_title": "Controlling Privacy and the Use of Data Assets Set",
     "volume_count": 2,
     "associated_volumes": "9781032039138, 9781032185187",
-    "volume_titles": "Controlling Privacy Use Data Assets - V1 | Controlling Privacy & Use Data Assets - V2"
+    "volume_titles": "Controlling Privacy & Use of Data Assets - V1 | Controlling Privacy & Use of Data Assets - V2"
   },
   {
     "set_isbn": "9781032876863",
@@ -2751,6 +2751,20 @@
     "volume_titles": "The Aims & Outcomes of Social Policy Research | Housing Social Policy & the State | Introduction to Social Administration in Britain | Social Policy in the Irish Republic | An Introduction to the Study of Social Administration | Caring for Strangers | A Code of Ethics for Social Work | The Study of Social Policy | Poor Parents | Social Policy in Action | Introducing Social Policy | The English Prison Officer Since 1850 | To Do The Sick No Harm | Retiring to the Seaside"
   },
   {
+    "set_isbn": "9781041068853",
+    "set_isbn_title": "NOW! NihonGO NOW! Vol Set 1",
+    "volume_count": 2,
+    "associated_volumes": "9781032758503, 9781032758527",
+    "volume_titles": "日本語 NOW! NihonGO NOW! Level 1 Volume 1 Activity Book | NOW! NihonGO NOW! Level 1 Volume 1 Textbook"
+  },
+  {
+    "set_isbn": "9781041069140",
+    "set_isbn_title": "NOW! NihonGO NOW! Vol Set 2",
+    "volume_count": 2,
+    "associated_volumes": "9781032758497, 9781032758510",
+    "volume_titles": "Now! NihonGO NOW! Level 1 Volume 2 Textbook | Now! NihonGO NOW! Level 1 Volume 2 Activity Book"
+  },
+  {
     "set_isbn": "9781041071990",
     "set_isbn_title": "Routledge Editions: Politics of the European Union Vol Set",
     "volume_count": 35,
@@ -2966,6 +2980,27 @@
     "volume_count": 2,
     "associated_volumes": "9781032064802, 9781032064826",
     "volume_titles": "Compassion Focused Group Therapy | Compassion Focused Therapy Participant Workbook"
+  },
+  {
+    "set_isbn": "9781041201564",
+    "set_isbn_title": "Michael Jackson’s Radical Aesthetic Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781041067405, 9781041067436",
+    "volume_titles": "Michael Jackson’s Radical Aesthetic Vol 2 | Michael Jackson’s Radical Aesthetic Vol 1"
+  },
+  {
+    "set_isbn": "9781041205821",
+    "set_isbn_title": "Library Editions: Economics of the European Union Vol Set",
+    "volume_count": 28,
+    "associated_volumes": "9781041172604, 9781041193777, 9781041194255, 9781041195665, 9781041196273, 9781041196587, 9781041197003, 9781041197515, 9781041199014, 9781041199588, 9781041200284, 9781041200765, 9781041201465, 9781041201885, 9781041201991, 9781041202028, 9781041202066, 9781041202080, 9781041202110, 9781041202158, 9781041202172, 9781041202417, 9781041202776, 9781041202790, 9781041202806, 9781041202837, 9781041202875, 9781041202899",
+    "volume_titles": "The Regions & the European Community | The Barons of European Industry | Customs Unions & Trade Conflicts | Economic Integration & Growth in Europe | Ethics & European Security | Health Care in the European Community | Nursing in the European Community | Regional Development in the European Economic Community | The Common Fisheries Policy of the European Community | European Industrial Policy | The Power of the Purse in the European Communities | Free Trade & Competition in the EEC | Mental Health Care in the European Community | A Competitive Future for Europe? | Continuity & Change in European Society | Economic Divergence in the European Community | Environmental Profiles of European Business | European Technological Collaboration | Europes Domestic Market | The Politics of Coals Decline | Protection & Industrial Policy in Europe | The Operation of the European Social Fund | Planning in Europe | The Politicisation of Business in Western Europe | Public Enterprise in Western Europe | The Romanian Economy in the Twentieth Century | The Spanish Economy in the 20th Century | Western Europe"
+  },
+  {
+    "set_isbn": "9781041243595",
+    "set_isbn_title": "Advances in Computational Methods Science & Tech Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781041117698, 9781041243564",
+    "volume_titles": "Advances in Computational Methods Science & Tech Vol 1 | Advances in Computational Methods Science & Tech Vol 2"
   },
   {
     "set_isbn": "9781108703093",
@@ -4508,6 +4543,13 @@
     "volume_titles": "Readers Guide to British History Vol 1 | Readers Guide to British History Vol 2"
   },
   {
+    "set_isbn": "9781579582821",
+    "set_isbn_title": "Encyclopedia of the Middle Ages Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781138944923, 9781138944978",
+    "volume_titles": "Encyclopedia of the Middle Ages A-J Vol 1 | Encyclopedia of the Middle Ages K-Z Vol 2"
+  },
+  {
     "set_isbn": "9781579583880",
     "set_isbn_title": "Encyclopedia of the Developing World Vol Set",
     "volume_count": 3,
@@ -5243,6 +5285,13 @@
     "volume_titles": "Sustainable Agriculture for Food Energy and Industry V1 | Sustainable Agriculture for Food Energy and Industry V2"
   },
   {
+    "set_isbn": "9781884964213",
+    "set_isbn_title": "Dictionary of Women Artists Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781138062146, 9781138062153",
+    "volume_titles": "Dictionary of Women Artists | Dictionary of Women Artists"
+  },
+  {
     "set_isbn": "9781898823421",
     "set_isbn_title": "The History of Manchuria 1840-1948 Vol Set",
     "volume_count": 2,
@@ -5297,5 +5346,12 @@
     "volume_count": 4,
     "associated_volumes": "9789814877213, 9789814877220, 9789814877237, 9789814877244",
     "volume_titles": "Spherical Nucleic Acids Vol 1 | Spherical Nucleic Acids Vol 2 | Spherical Nucleic Acids Vol 3 | Spherical Nucleic Acids Vol 4"
+  },
+  {
+    "set_isbn": "9.78E+12",
+    "set_isbn_title": "NOW! NihonGO NOW! Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032758503, 9781032758527",
+    "volume_titles": "日本語 NOW! NihonGO NOW! Level 1 Volume 1 Activity Book | NOW! NihonGO NOW! Level 1 Volume 1 Textbook"
   }
 ]
