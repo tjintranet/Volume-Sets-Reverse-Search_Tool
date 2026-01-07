@@ -1295,11 +1295,25 @@
     "volume_titles": "Encyclopedia of Education & Human Development I | Encyclopedia of Education & Human Development II | Encyclopedia of Education & Human Development III"
   },
   {
+    "set_isbn": "9780765680518",
+    "set_isbn_title": "Encyclopedia of the Gilded Age and Progressive Era Vol Set",
+    "volume_count": 3,
+    "associated_volumes": "9781032280899, 9781032280905, 9781032280912",
+    "volume_titles": "Encyclopedia of the Gilded Age and Progressive Era Vol 1 | Encyclopedia of the Gilded Age and Progressive Era Vol 2 | Encyclopedia of the Gilded Age and Progressive Era Vol 3"
+  },
+  {
     "set_isbn": "9780765680549",
     "set_isbn_title": "Native Americans in Sports Vol Set",
     "volume_count": 2,
     "associated_volumes": "9781032829517, 9781032829524",
     "volume_titles": "Native Americans in Sports Vol 1 | Native Americans in Sports Vol 2"
+  },
+  {
+    "set_isbn": "9780815326366",
+    "set_isbn_title": "Homosexuality and the Constitution Vol Set",
+    "volume_count": 4,
+    "associated_volumes": "9780367265762, 9780367265793, 9780367265816, 9780367265885",
+    "volume_titles": "Homosexuality and the Constitution V2 | Homosexuality and the Constitution V1 | Homosexuality and the Constitution V3 | Homosexuality & the Constitution V4"
   },
   {
     "set_isbn": "9780815382058",
@@ -1888,6 +1902,13 @@
     "volume_count": 2,
     "associated_volumes": "9781032531700, 9781032531717",
     "volume_titles": "Gauge Theories Particle Physics 40th Vol 2 | Gauge Theories Particle Physics 40th Vol 1"
+  },
+  {
+    "set_isbn": "9781032499109",
+    "set_isbn_title": "Industrial Women 1760 - 1914 Volume Set",
+    "volume_count": 4,
+    "associated_volumes": "9781032499130, 9781032499147, 9781032499154, 9781032499161",
+    "volume_titles": "Industrial Women 1760 - 1914 Vol I | Industrial Women 1760 - 1914 Vol II | Industrial Women 1760 - 1914 Vol III | Industrial Women 1760 - 1914 Vol IV"
   },
   {
     "set_isbn": "9781032509891",
