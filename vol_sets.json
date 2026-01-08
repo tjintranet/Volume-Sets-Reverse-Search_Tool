@@ -294,6 +294,20 @@
     "volume_titles": "The Complete Shorter Poetry of George Eliot Vol 2 | The Complete Shorter Poetry of George Eliot Vol 1"
   },
   {
+    "set_isbn": "9780415022101",
+    "set_isbn_title": "Marx's Social and Political Thought Volume Set",
+    "volume_count": 4,
+    "associated_volumes": "9780415837569, 9780415837576, 9780415837583, 9780415837590",
+    "volume_titles": "Marx's Social and Political Thought Volume I | Marx's Social and Political Thought Volume II | Marx's Social and Political Thought Volume III | Marx's Social and Political Thought Volume IV"
+  },
+  {
+    "set_isbn": "9780415103534",
+    "set_isbn_title": "C.K. Ogden and Linguistics Volume Set",
+    "volume_count": 5,
+    "associated_volumes": "9780415637831, 9780415637848, 9780415637855, 9780415637862, 9780415637879",
+    "volume_titles": "C.K. Ogden and Linguistics Vol I | C.K. Ogden and Linguistics Vol II | C.K. Ogden and Linguistics Vol III | C.K. Ogden and Linguistics Vol IV | C.K. Ogden and Linguistics Vol V"
+  },
+  {
     "set_isbn": "9780415130547",
     "set_isbn_title": "Bertrand Russell - 4 VOL SET",
     "volume_count": 4,
@@ -1204,6 +1218,20 @@
     "volume_titles": "Explanation Law and Cause - V1 | The Nature of Scientific Theory - V2 | Theory Reduction and Theory Change - V3 | Probability and Confirmation - V4 | Bayesian and Non-Inductive Methods - V5 | The Philosophy of Physics - V6"
   },
   {
+    "set_isbn": "9780415936613",
+    "set_isbn_title": "International Encyclopedia of Military History Volume Set",
+    "volume_count": 2,
+    "associated_volumes": "9781138884663, 9781138884670",
+    "volume_titles": "International Encyclopedia of Military History Vol 1 (A-J) | International Encyclopedia of Military History Vol 2 (K-Z)"
+  },
+  {
+    "set_isbn": "9780415938785",
+    "set_isbn_title": "Chronology of Western Classical Music 1751-2000 Volume Set",
+    "volume_count": 2,
+    "associated_volumes": "9780415942164, 9780415942171",
+    "volume_titles": "Chronology of Western Classical Music Volume I: 1751-1900 | Chronology of Western Classical Music Volume II: 1901-2000"
+  },
+  {
     "set_isbn": "9780415970006",
     "set_isbn_title": "Encyclopedia of Police Science 3E - 2 VOLUME SET",
     "volume_count": 2,
@@ -1295,6 +1323,13 @@
     "volume_titles": "Encyclopedia of Education & Human Development I | Encyclopedia of Education & Human Development II | Encyclopedia of Education & Human Development III"
   },
   {
+    "set_isbn": "9780765680426",
+    "set_isbn_title": "American Presidential Campaigns and Elections Volume Set",
+    "volume_count": 3,
+    "associated_volumes": "9780367693329, 9780367693350, 9780367693381",
+    "volume_titles": "American Presidential Campaigns and Elections Vol 1 | American Presidential Campaigns and Elections Vol 2 | American Presidential Campaigns and Elections Vol 3"
+  },
+  {
     "set_isbn": "9780765680518",
     "set_isbn_title": "Encyclopedia of the Gilded Age and Progressive Era Vol Set",
     "volume_count": 3,
@@ -1313,7 +1348,7 @@
     "set_isbn_title": "Homosexuality and the Constitution Vol Set",
     "volume_count": 4,
     "associated_volumes": "9780367265762, 9780367265793, 9780367265816, 9780367265885",
-    "volume_titles": "Homosexuality and the Constitution V2 | Homosexuality and the Constitution V1 | Homosexuality and the Constitution V3 | Homosexuality & the Constitution V4"
+    "volume_titles": "Homosexuality and the Constitution V2 | Homosexuality and the Constitution V1 | Homosexuality and the Constitution V3 | Homosexuality and the Constitution V4"
   },
   {
     "set_isbn": "9780815382058",
