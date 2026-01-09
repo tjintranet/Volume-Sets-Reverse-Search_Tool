@@ -1344,11 +1344,53 @@
     "volume_titles": "Native Americans in Sports Vol 1 | Native Americans in Sports Vol 2"
   },
   {
+    "set_isbn": "9780765680617",
+    "set_isbn_title": "Social Issues in America Volume Set",
+    "volume_count": 8,
+    "associated_volumes": "9780367456771, 9780367456795, 9780367456818, 9780367456825, 9780367456832, 9780367456870, 9780367456900, 9780367456917",
+    "volume_titles": "Social Issues in America: An Encyclopedia Vol 1 | Social Issues in America: An Encyclopedia Vol 2 | Social Issues in America: An Encyclopedia Vol 3 | Social Issues in America: An Encyclopedia Vol 4 | Social Issues in America: An Encyclopedia Vol 5 | Social Issues in America: An Encyclopedia Vol 6 | Social Issues in America: An Encyclopedia Vol 7 | Social Issues in America: An Encyclopedia - Index"
+  },
+  {
+    "set_isbn": "9780765680686",
+    "set_isbn_title": "Encyclopedia of Intelligence & Counterintelligence Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9780367426668, 9780367426675",
+    "volume_titles": "Encyclopedia of Intelligence and Counterintelligence Vol 1 | Encyclopedia of Intelligence and Counterintelligence Vol 2"
+  },
+  {
+    "set_isbn": "9780765680839",
+    "set_isbn_title": "Latino History and Culture Volume Set",
+    "volume_count": 2,
+    "associated_volumes": "9780367356644, 9780367356651",
+    "volume_titles": "Latino History and Culture Vol 1 (A-L) | Latino History and Culture Vol 2 (M-Z)"
+  },
+  {
+    "set_isbn": "9780815322078",
+    "set_isbn_title": "Hate Speech and the Constitution Volume Set",
+    "volume_count": 2,
+    "associated_volumes": "9780367280260, 9780367280284",
+    "volume_titles": "Hate Speech and the Constitution V1 | Hate Speech and the Constitution V2"
+  },
+  {
     "set_isbn": "9780815326366",
     "set_isbn_title": "Homosexuality and the Constitution Vol Set",
     "volume_count": 4,
     "associated_volumes": "9780367265762, 9780367265793, 9780367265816, 9780367265885",
     "volume_titles": "Homosexuality and the Constitution V2 | Homosexuality and the Constitution V1 | Homosexuality and the Constitution V3 | Homosexuality and the Constitution V4"
+  },
+  {
+    "set_isbn": "9780815327424",
+    "set_isbn_title": "Affirmative Action Before Constitutional Law 64-77 Vol Set",
+    "volume_count": 3,
+    "associated_volumes": "9780367265977, 9780367266028, 9780367266042",
+    "volume_titles": "Affirmative Action Before Constitutional Law V1 | Affirmative Action Before Constitutional Law V2 | Affirmative Action Before Constitutional Law V3"
+  },
+  {
+    "set_isbn": "9780815331445",
+    "set_isbn_title": "Privacy and the Constitution Volume Set",
+    "volume_count": 3,
+    "associated_volumes": "9780367266066, 9780367266080, 9780367266097",
+    "volume_titles": "Privacy & the Constitution V1 | Privacy & the Constitution V2 | Privacy & the Constitution"
   },
   {
     "set_isbn": "9780815382058",
@@ -1475,6 +1517,13 @@
     "volume_count": 2,
     "associated_volumes": "9781032048550, 9781032048598",
     "volume_titles": "Metal Matrix Composites V1 | Metal Matrix Composites V2"
+  },
+  {
+    "set_isbn": "9781032057231",
+    "set_isbn_title": "The Tokugawa World Volume Set",
+    "volume_count": 2,
+    "associated_volumes": "9781041089421, 9781041089469",
+    "volume_titles": "The Tokugawa World Vol 1 (9781041089421) | The Tokugawa World Vol 2 (9781041089469)"
   },
   {
     "set_isbn": "9781032066806",
@@ -5335,10 +5384,10 @@
   },
   {
     "set_isbn": "9781873403297",
-    "set_isbn_title": "Jane Austen - 4 VOL SET",
+    "set_isbn_title": "Jane Austen Volume Set",
     "volume_count": 4,
     "associated_volumes": "9781138083547, 9781138083554, 9781138083585, 9781138083592",
-    "volume_titles": "Jane Austen - V1 | Jane Austen - V2 | Jane Austen - V3 | Jane Austen - V4"
+    "volume_titles": "Jane Austen Vol I | Jane Austen Vol II | Jane Austen Vol III | Jane Austen Vol IV"
   },
   {
     "set_isbn": "9781873936764",
@@ -5353,6 +5402,20 @@
     "volume_count": 2,
     "associated_volumes": "9781138062146, 9781138062153",
     "volume_titles": "Dictionary of Women Artists Vol 1 | Dictionary of Women Artists Vol 2"
+  },
+  {
+    "set_isbn": "9781884964336",
+    "set_isbn_title": "Encyclopedia of Historians & Historical Writing Volume Set",
+    "volume_count": 2,
+    "associated_volumes": "9780367405120, 9780367405144",
+    "volume_titles": "Encyclopedia of Historians & Historical Writers V1 (A-L) | Encyclopedia of Historians & Historical Writers V2 (M-Z)"
+  },
+  {
+    "set_isbn": "9781884964367",
+    "set_isbn_title": "Encyclopedia of Literary Translation into English Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9780367459413, 9780367459420",
+    "volume_titles": "Encyclopedia of Literary Translation into English V1 (A-L) | Encyclopedia of Literary Translation into English V2 (M-Z)"
   },
   {
     "set_isbn": "9781898823421",
