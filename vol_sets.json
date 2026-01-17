@@ -1932,6 +1932,13 @@
     "volume_titles": "American Imperialism in Long Nineteenth Century Vol I | American Imperialism in Long Nineteenth Century Vol II | American Imperialism in Long Nineteenth Century Vol III | American Imperialism in Long Nineteenth Century Vol IV"
   },
   {
+    "set_isbn": "9781032448541",
+    "set_isbn_title": "Finance & Culture in Nineteenth Century Britain Volume Set",
+    "volume_count": 4,
+    "associated_volumes": "9781032448558, 9781032448565, 9781032448589, 9781032448596",
+    "volume_titles": "Finance & Culture in Nineteenth Century Britain Volume I | Finance & Culture in Nineteenth Century Britain Volume II | Finance & Culture in Nineteenth Century Britain Volume III | Finance & Culture in Nineteenth Century Britain Volume IV"
+  },
+  {
     "set_isbn": "9781032461021",
     "set_isbn_title": "Multiple-Valued Computing - 2 VOL SET",
     "volume_count": 2,
@@ -2105,6 +2112,13 @@
     "volume_count": 2,
     "associated_volumes": "9781032039138, 9781032185187",
     "volume_titles": "Controlling Privacy & Use of Data Assets - V1 | Controlling Privacy & Use of Data Assets - V2"
+  },
+  {
+    "set_isbn": "9781032555454",
+    "set_isbn_title": "Assistive Robotics Volume Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032555447, 9781032555461",
+    "volume_titles": "Assistive Robotics Perspectives Challenges Firmware Vol 1 | Assistive Robotics Modeling Computation Realization Vol 2"
   },
   {
     "set_isbn": "9781032555492",
@@ -5451,6 +5465,13 @@
     "volume_count": 2,
     "associated_volumes": "9781032853307, 9781032853314",
     "volume_titles": "Quantum-Chemical Calculation Unique Molecular Syst Vol 1 | Quantum-Chemical Calculation Unique Molecular Syst Vol 2"
+  },
+  {
+    "set_isbn": "9781998511747",
+    "set_isbn_title": "Soybeans Volume Set",
+    "volume_count": 2,
+    "associated_volumes": "9781998511709, 9781998511723",
+    "volume_titles": "Soybeans Volume 1 | Soybeans Volume 2"
   },
   {
     "set_isbn": "9781998511945",
