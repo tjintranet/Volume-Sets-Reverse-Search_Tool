@@ -210,6 +210,13 @@
     "volume_titles": "Bioprocess Engineering and Technology Vol I | Bioprocess Engineering and Technology Vol II | Bioprocess Engineering and Technology Vol III"
   },
   {
+    "set_isbn": "9780367679712",
+    "set_isbn_title": "The Crisis of Distribution Volume Set",
+    "volume_count": 2,
+    "associated_volumes": "9780367676582, 9780367676773",
+    "volume_titles": "The Crisis of Distribution Theoretical Analysis Vol 1 | Distributive Institutions The View of Economic Law Vol 2"
+  },
+  {
     "set_isbn": "9780367689728",
     "set_isbn_title": "Handbook of Superconductivity Vol Set",
     "volume_count": 3,
@@ -4765,6 +4772,13 @@
     "volume_count": 9,
     "associated_volumes": "9781617260711, 9781617260780, 9781617260797, 9781617260803, 9781617260810, 9781617260827, 9781617260834, 9781617260841, 9781617260858",
     "volume_titles": "The Florida Experience - V2 | Interbasin Transfers of Water - V5 | Managing Water Quality - V6 | Multiple Purpose River Development - V9 | Scarce Water and Institutional Change - V3 | Technology in American Water Development - V1 | The Columbia River Treaty - V8 | The Economics of Regional Water Quality Management -V7 | Water Management and Agricultural Development - V4"
+  },
+  {
+    "set_isbn": "9781642672015",
+    "set_isbn_title": "Reframing Campus Conflict/Student Conduct Practice Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781642670493, 9781642671056",
+    "volume_titles": "Reframing Campus Conflict/Student Conduct Practice Vol 1 | Student Conduct Practice The Complete Guide Vol 2"
   },
   {
     "set_isbn": "9781771880541",
