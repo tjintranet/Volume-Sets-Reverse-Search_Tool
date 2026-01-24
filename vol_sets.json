@@ -1582,6 +1582,13 @@
     "volume_titles": "The History of Evil in the Medieval Age | The History of Evil in the Early Modern Age | The History of Evil in the Eighteenth & Nineteenth Centuri | The History of Evil in the Early Twentieth Century | The History of Evil from the Mid-Twentieth Century to Toda | The History of Evil in Antiquity"
   },
   {
+    "set_isbn": "9781032111438",
+    "set_isbn_title": "Handbook of Computational Social Science Volume Set",
+    "volume_count": 2,
+    "associated_volumes": "9780367456528, 9781032077703",
+    "volume_titles": "Handbook of Computational Social Science Volume 1 | Handbook of Computational Social Science Volume 2"
+  },
+  {
     "set_isbn": "9781032112732",
     "set_isbn_title": "Algal Biotechnology Vol Set",
     "volume_count": 2,
@@ -1853,6 +1860,13 @@
     "volume_count": 2,
     "associated_volumes": "9781032338767, 9781032338774",
     "volume_titles": "Bioengineering and Biophysical | Biological Medical Aspects of Electromagnetic"
+  },
+  {
+    "set_isbn": "9781032340715",
+    "set_isbn_title": "Chinese Law of Personality Rights Volume Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032291369, 9781032340708",
+    "volume_titles": "Chinese Law of Personality Rights I | Chinese Law of Personality Rights II"
   },
   {
     "set_isbn": "9781032357980",
