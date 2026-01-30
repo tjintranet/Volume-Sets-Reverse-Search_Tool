@@ -1785,6 +1785,13 @@
     "volume_titles": "Secret Subversion I | Secret Subversion II"
   },
   {
+    "set_isbn": "9781032307886",
+    "set_isbn_title": "Secret Subversion Volume Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032307893, 9781032336008",
+    "volume_titles": "Secret Subversion II | Secret Subversion I"
+  },
+  {
     "set_isbn": "9781032308920",
     "set_isbn_title": "Occultism & Sigmund Freud 2 Vol Set",
     "volume_count": 2,
@@ -4667,6 +4674,13 @@
     "volume_count": 21,
     "associated_volumes": "9781563770067, 9781563770074, 9781563770081, 9781563770098, 9781563770104, 9781563770111, 9781563770128, 9781563770135, 9781563770142, 9781563770159, 9781563770166, 9781563770173, 9781563770180, 9781563770197, 9781563770203, 9781563770210, 9781563770227, 9781563770234, 9781563770548, 9781563770692, 9781563771002",
     "volume_titles": "Writing the Community | Experiencing Citizenship | Learning By Doing | Caring & Community | With Service In Mind | Learning With the Community | Voices of Strong Democracy | Acting Locally | Creating Community-Responsive Physicians | Teaching For Justice | Beyond the Tower | Cultivating the Sociological Imagination | Life Learning & Community | Projects That Matter | Connecting Past & Present | Working for the Common Good | Construyendo Puentes (Building Bridges) | Practice Of Change | From Cloister To Commons | Hospitality With a Heart | From the Studio to the Streets"
+  },
+  {
+    "set_isbn": "9781578086085",
+    "set_isbn_title": "Seed Conditioning Volume Set",
+    "volume_count": 2,
+    "associated_volumes": "9781578086870, 9781578086887",
+    "volume_titles": "Seed Conditioning Volume 2 Technology - Part A | Seed Conditioning Volume 2 Technology - Part B"
   },
   {
     "set_isbn": "9781579227708",
