@@ -1484,6 +1484,13 @@
     "volume_titles": "The Cambridge History of Later Latin Literature v1 | The Cambridge History of Later Latin Literature v2"
   },
   {
+    "set_isbn": "9781009778893",
+    "set_isbn_title": "Cambridge Economic History of Modern South Asia Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781009769488, 9781108833035",
+    "volume_titles": "The Cambridge Economic History of Modern South Asia Vol 2 | The Cambridge Economic History of Modern South Asia Vol 1"
+  },
+  {
     "set_isbn": "9781032006338",
     "set_isbn_title": "Geospatial Info Hbk for Water Resources Vol Set",
     "volume_count": 3,
@@ -4961,6 +4968,13 @@
     "volume_count": 2,
     "associated_volumes": "9781774918784, 9781774919484",
     "volume_titles": "Molecular Genetics Structures Mechanisms & Functions Vol 1 | Molecular Genetics Structures Mechanisms & Functions Vol 2"
+  },
+  {
+    "set_isbn": "9781774919767",
+    "set_isbn_title": "Advances in Pharmaceutical Biotechnology Volume Set",
+    "volume_count": 2,
+    "associated_volumes": "9781774919781, 9781774919804",
+    "volume_titles": "Advances in Pharmaceutical Biotechnology Volume 1 | Advances in Pharmaceutical Biotechnology Volume 2"
   },
   {
     "set_isbn": "9781774919903",
