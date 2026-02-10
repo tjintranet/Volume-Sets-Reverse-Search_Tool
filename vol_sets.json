@@ -1477,6 +1477,13 @@
     "volume_titles": "The Cambridge History of Arthurian Literature & Culture Vol 1 | The Cambridge History of Arthurian Literature & Culture Vol 2"
   },
   {
+    "set_isbn": "9781009500180",
+    "set_isbn_title": "Studies in Greek Literature Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781009501057, 9781009501187",
+    "volume_titles": "Studies in Greek Literature Vol 1 | Studies in Greek Literature Vol 2"
+  },
+  {
     "set_isbn": "9781009540643",
     "set_isbn_title": "The Cambridge History of Later Latin Literature 2 vol set",
     "volume_count": 2,
@@ -3169,6 +3176,13 @@
     "volume_count": 2,
     "associated_volumes": "9781041117698, 9781041243564",
     "volume_titles": "Advances in Computational Methods Science & Tech Vol 1 | Advances in Computational Methods Science & Tech Vol 2"
+  },
+  {
+    "set_isbn": "9781108680950",
+    "set_isbn_title": "The Cambridge History of the Papacy Vol Set",
+    "volume_count": 3,
+    "associated_volumes": "9781108485234, 9781108493772, 9781108493826",
+    "volume_titles": "The Cambridge History of the Papacy Vol 1 | The Cambridge History of the Papacy Vol 3 | The Cambridge History of the Papacy Vol 2"
   },
   {
     "set_isbn": "9781108703093",
