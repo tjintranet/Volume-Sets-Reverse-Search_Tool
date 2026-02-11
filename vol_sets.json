@@ -1890,6 +1890,13 @@
     "volume_titles": "Chinese Law of Personality Rights I | Chinese Law of Personality Rights II"
   },
   {
+    "set_isbn": "9781032357973",
+    "set_isbn_title": "Quantum Mechanics Volume Set",
+    "volume_count": 2,
+    "associated_volumes": "9780367769987, 9780367770006",
+    "volume_titles": "Quantum Mechanics I | Quantum Mechanics II"
+  },
+  {
     "set_isbn": "9781032357980",
     "set_isbn_title": "Qunatum Mechanics Vol Set",
     "volume_count": 2,
@@ -3176,6 +3183,13 @@
     "volume_count": 2,
     "associated_volumes": "9781041117698, 9781041243564",
     "volume_titles": "Advances in Computational Methods Science & Tech Vol 1 | Advances in Computational Methods Science & Tech Vol 2"
+  },
+  {
+    "set_isbn": "9781041246237",
+    "set_isbn_title": "Comprehensive Primer on Privacy Management Volume Set",
+    "volume_count": 5,
+    "associated_volumes": "9781032039138, 9781032125473, 9781032185187, 9781032487700, 9781032912554",
+    "volume_titles": "Controlling Privacy & Use of Data Assets - V1 | Privacy in Practice | Controlling Privacy & Use of Data Assets - V2 | Safeguarding the Future | Navigating the Cyber Maze"
   },
   {
     "set_isbn": "9781108680950",
