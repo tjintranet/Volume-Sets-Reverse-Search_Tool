@@ -1491,6 +1491,13 @@
     "volume_titles": "The Cambridge History of Later Latin Literature v1 | The Cambridge History of Later Latin Literature v2"
   },
   {
+    "set_isbn": "9781009715225",
+    "set_isbn_title": "Quasar Absorption Lines 2 Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9780521867603, 9781009715218",
+    "volume_titles": "Quasar Absorption Lines vol1 | Quasar Absorption Lines vol 2"
+  },
+  {
     "set_isbn": "9781009778893",
     "set_isbn_title": "Cambridge Economic History of Modern South Asia Vol Set",
     "volume_count": 2,
@@ -3211,6 +3218,13 @@
     "volume_count": 2,
     "associated_volumes": "9781108703123, 9781108703130",
     "volume_titles": "History of Religions Ancient World Vol 2 | History of Religions Ancient World Vol 1"
+  },
+  {
+    "set_isbn": "9781108868709",
+    "set_isbn_title": "Corpus of Latin Texts on Papyrus Vol Set",
+    "volume_count": 6,
+    "associated_volumes": "9781009332217, 9781009332262, 9781009350945, 9781009351034, 9781009351065, 9781009352543",
+    "volume_titles": "Corpus of Latin Texts on Papyrus vol 2 | Corpus of Latin Texts on Papyrus vol 1 | Corpus of Latin Texts on Papyrus Vol 4 | Corpus of Latin Texts on Papyrus Vol 5 | Corpus of Latin Texts on Papyrus vol 6 | Corpus of Latin Texts on Papyrus vol 3"
   },
   {
     "set_isbn": "9781138014244",
