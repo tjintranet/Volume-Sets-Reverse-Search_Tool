@@ -1848,6 +1848,13 @@
     "volume_titles": "Designing Switch-Routers - Fundamental | Designing Switch-Routers - Architectures"
   },
   {
+    "set_isbn": "9781032316628",
+    "set_isbn_title": "Data Science with Semantic Technologies Volume Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032316666, 9781032316680",
+    "volume_titles": "Data Science Semantic Tech - New Trends | Data Science Semantic Tech - Deployment"
+  },
+  {
     "set_isbn": "9781032317366",
     "set_isbn_title": "Introduction to Relativity - 2 VOL SET",
     "volume_count": 2,
