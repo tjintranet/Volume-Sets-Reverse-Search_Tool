@@ -301,6 +301,13 @@
     "volume_titles": "North Americas Natural Wonders Vol 2 | North Americas Natural Wonders Vol 1"
   },
   {
+    "set_isbn": "9780367859466",
+    "set_isbn_title": "North Americas Natural Wonders Volume Set",
+    "volume_count": 2,
+    "associated_volumes": "9780367859435, 9780367859442",
+    "volume_titles": "North Americas Natural Wonders - Canadian Rockies etc V2 | North America's Natural Wonders - Appalachians etc V1"
+  },
+  {
     "set_isbn": "9780367882648",
     "set_isbn_title": "The Complete Shorter Poetry of George Eliot Vol Set",
     "volume_count": 2,
@@ -691,6 +698,13 @@
     "volume_count": 4,
     "associated_volumes": "9780415491839, 9780415491846, 9780415491853, 9780415491860",
     "volume_titles": "Milton - James Joyce Vol I | Milton - James Joyce Vol II | Milton - James Joyce Vol III | Milton - James Joyce Vol IV"
+  },
+  {
+    "set_isbn": "9780415493758",
+    "set_isbn_title": "A. Dirk Moses Genocide Volume Set",
+    "volume_count": 6,
+    "associated_volumes": "9780415493765, 9780415493772, 9780415493789, 9780415493796, 9780415493802, 9780415493819",
+    "volume_titles": "A. Dirk Moses Genocide Vol I | A. Dirk Moses Genocide Vol II | A. Dirk Moses Genocide Vol III | A. Dirk Moses Genocide Vol IV | A. Dirk Moses Genocide Vol V | A. Dirk Moses Genocide Vol VI"
   },
   {
     "set_isbn": "9780415499460",
