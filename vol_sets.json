@@ -3248,6 +3248,27 @@
     "volume_titles": "Controlling Privacy & Use of Data Assets - V1 | Privacy in Practice | Controlling Privacy & Use of Data Assets - V2 | Safeguarding the Future | Navigating the Cyber Maze"
   },
   {
+    "set_isbn": "9781108226912",
+    "set_isbn_title": "The Cambridge History of the Napoleonic Wars  3 vols set",
+    "volume_count": 3,
+    "associated_volumes": "9781108417662, 9781108417679, 9781108424370",
+    "volume_titles": "The Cambridge History of the Napoleonic Wars | The Cambridge History of the Napoleonic Wars v3 | The Cambridge History of the Napoleonic Wars v1"
+  },
+  {
+    "set_isbn": "9781108415088",
+    "set_isbn_title": "The Holocaust and New World Slavery 2 vols set",
+    "volume_count": 2,
+    "associated_volumes": "9781108476553, 9781108699044",
+    "volume_titles": "The Holocaust & New World Slavery v1 | The Holocaust & New World Slavery v2"
+  },
+  {
+    "set_isbn": "9781108496629",
+    "set_isbn_title": "Cambridge History of the American Revolution 3 vols set",
+    "volume_count": 3,
+    "associated_volumes": "9781009596466, 9781009596510, 9781009596527",
+    "volume_titles": "The Cambridge History of the American Revolution v1 | The Cambridge History of the American Revolution v3 | The Cambridge History of the American Revolution v2"
+  },
+  {
     "set_isbn": "9781108680950",
     "set_isbn_title": "The Cambridge History of the Papacy Vol Set",
     "volume_count": 3,
