@@ -1806,11 +1806,18 @@
     "volume_titles": "Death Loss Memory & Mourning in Long 19th C 1780–1914 Vol I | Death Loss Memory & Mourning in 19th C 1780–1914 Vol II | Death Loss Memory & Mourning in 19th C 1780–1914 Vol III | Death Loss Memory & Mourning in 19th C 1780–1914 Vol IV"
   },
   {
+    "set_isbn": "9781032285184",
+    "set_isbn_title": "Computational Methods and GIS Applications Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032266817, 9781032302430",
+    "volume_titles": "Computational Methods and GIS Apps in Social Science II | Computational Methods and GIS Apps in Social Science I"
+  },
+  {
     "set_isbn": "9781032285191",
     "set_isbn_title": "Computational Methods & GIS Apps in Social Science Vol Set",
     "volume_count": 2,
     "associated_volumes": "9781032273266, 9781032302430",
-    "volume_titles": "Computational Methods & GIS Apps in Social Science V2 | Computational Methods & GIS Apps in Social Science Lab Manual V1"
+    "volume_titles": "Computational Methods & GIS Apps in Social Science V2 | Computational Methods and GIS Apps in Social Science I"
   },
   {
     "set_isbn": "9781032287720",
@@ -2280,6 +2287,13 @@
     "volume_count": 3,
     "associated_volumes": "9781032588490, 9781032588513, 9781032891842",
     "volume_titles": "Control of Heavy Metals in the Environment Volume 1 | Control of Heavy Metals in the Environment | Control of Heavy Metals in the Environment"
+  },
+  {
+    "set_isbn": "9781032590011",
+    "set_isbn_title": "Sustainable Surface Engineering Volume Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032590028, 9781032590035",
+    "volume_titles": "\tSustainable Surface Engineering - Surface Treatments Vol I | Sustainable Surface Engineering - Coating Solutions Vol II"
   },
   {
     "set_isbn": "9781032590677",
@@ -3288,6 +3302,13 @@
     "volume_count": 6,
     "associated_volumes": "9781009332217, 9781009332262, 9781009350945, 9781009351034, 9781009351065, 9781009352543",
     "volume_titles": "Corpus of Latin Texts on Papyrus vol 2 | Corpus of Latin Texts on Papyrus vol 1 | Corpus of Latin Texts on Papyrus Vol 4 | Corpus of Latin Texts on Papyrus Vol 5 | Corpus of Latin Texts on Papyrus vol 6 | Corpus of Latin Texts on Papyrus vol 3"
+  },
+  {
+    "set_isbn": "9781108884365",
+    "set_isbn_title": "The Cambridge History of the Holocaust 4 Vols",
+    "volume_count": 4,
+    "associated_volumes": "9781108830225, 9781108839389, 9781108839396, 9781108842976",
+    "volume_titles": "The Cambridge History of the Holocaust v3 | The Cambridge History of the Holocaust v2 | The Cambridge History of the Holocaust v4 | The Cambridge History of the Holocaust v1"
   },
   {
     "set_isbn": "9781138014244",
