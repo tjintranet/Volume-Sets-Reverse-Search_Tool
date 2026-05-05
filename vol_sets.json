@@ -3262,6 +3262,13 @@
     "volume_titles": "Controlling Privacy & Use of Data Assets - V1 | Privacy in Practice | Controlling Privacy & Use of Data Assets - V2 | Safeguarding the Future | Navigating the Cyber Maze"
   },
   {
+    "set_isbn": "9781107131705",
+    "set_isbn_title": "The Cambridge Handbook of Social Theory 2 vols set",
+    "volume_count": 2,
+    "associated_volumes": "9781107162648, 9781107162693",
+    "volume_titles": "The Cambridge Handbook of Social Theory V1 | The Cambridge Handbook of Social Theory V2"
+  },
+  {
     "set_isbn": "9781108226912",
     "set_isbn_title": "The Cambridge History of the Napoleonic Wars  3 vols set",
     "volume_count": 3,
@@ -3295,6 +3302,13 @@
     "volume_count": 2,
     "associated_volumes": "9781108703123, 9781108703130",
     "volume_titles": "History of Religions Ancient World Vol 2 | History of Religions Ancient World Vol 1"
+  },
+  {
+    "set_isbn": "9781108759731",
+    "set_isbn_title": "The Cambridge World History of Genocide 3 vols set",
+    "volume_count": 3,
+    "associated_volumes": "9781108486439, 9781108487078, 9781108493536",
+    "volume_titles": "The Cambridge World History of Genocide V2 | The Cambridge World History of Genocide V2 | The Cambridge World History of Genocide V1"
   },
   {
     "set_isbn": "9781108868709",
@@ -4310,6 +4324,13 @@
     "volume_count": 9,
     "associated_volumes": "9781138957664, 9781138957831, 9781138957855, 9781138957886, 9781138957909, 9781138958210, 9781138958654, 9781138958708, 9781138958722",
     "volume_titles": "A Modern Symposium | Justice and Liberty | The Greek VIew of Life | The Meaning of Good | Plato and His Dialogues | After Two Thousand Years | Revolution and Reaction in Modern France | The European Anarchy | War - its Nature Cause and Cure"
+  },
+  {
+    "set_isbn": "9781316506578",
+    "set_isbn_title": "The Letters of Samuel Beckett 4 vols set",
+    "volume_count": 4,
+    "associated_volumes": "9780521867931, 9780521867948, 9780521867955, 9780521867962",
+    "volume_titles": "The Letters of Samuel Beckett V1 | The Letters of Samuel Beckett V2 | The Letters of Samuel Beckett V3 | The Letters of Samuel Beckett V4"
   },
   {
     "set_isbn": "9781409413431",
