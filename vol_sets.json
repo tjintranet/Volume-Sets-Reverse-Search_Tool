@@ -2555,6 +2555,13 @@
     "volume_titles": "Foundation Mathematics for Engineers & Scientists | Advanced Mathematics for Engineers & Scientists"
   },
   {
+    "set_isbn": "9781032772943",
+    "set_isbn_title": "Applied Mechanics of Solids - 8 VOL SET",
+    "volume_count": 8,
+    "associated_volumes": "9781032772950, 9781032772967, 9781032772981, 9781041043911, 9781041043935, 9781041043959, 9781041059479, 9781041068150",
+    "volume_titles": "Industrial Water & Waste Treatment - Fundamentals | Industrial Water & Waste Treatment - Research Dev | Industrial Water & Waste Treatment - Tech Dev | Industrial Water & Waste Treatment - Process Dev | Industrial Water & Waste Treatment - Pollution Control | Industrial Water & Waste Treatment - Resource Con | Industrial Water & Waste Treatment - Case Studies | Industrial Water & Waste Treatment - Innovative Sol"
+  },
+  {
     "set_isbn": "9781032801476",
     "set_isbn_title": "Java Programming Exercises Vol Set",
     "volume_count": 2,
@@ -3246,6 +3253,13 @@
     "volume_count": 28,
     "associated_volumes": "9781041172604, 9781041193777, 9781041194255, 9781041195665, 9781041196273, 9781041196587, 9781041197003, 9781041197515, 9781041199014, 9781041199588, 9781041200284, 9781041200765, 9781041201465, 9781041201885, 9781041201991, 9781041202028, 9781041202066, 9781041202080, 9781041202110, 9781041202158, 9781041202172, 9781041202417, 9781041202776, 9781041202790, 9781041202806, 9781041202837, 9781041202875, 9781041202899",
     "volume_titles": "The Regions & the European Community | The Barons of European Industry | Customs Unions & Trade Conflicts | Economic Integration & Growth in Europe | Ethics & European Security | Health Care in the European Community | Nursing in the European Community | Regional Development in the European Economic Community | The Common Fisheries Policy of the European Community | European Industrial Policy | The Power of the Purse in the European Communities | Free Trade & Competition in the EEC | Mental Health Care in the European Community | A Competitive Future for Europe? | Continuity & Change in European Society | Economic Divergence in the European Community | Environmental Profiles of European Business | European Technological Collaboration | Europes Domestic Market | The Politics of Coals Decline | Protection & Industrial Policy in Europe | The Operation of the European Social Fund | Planning in Europe | The Politicisation of Business in Western Europe | Public Enterprise in Western Europe | The Romanian Economy in the Twentieth Century | The Spanish Economy in the 20th Century | Western Europe"
+  },
+  {
+    "set_isbn": "9781041237204",
+    "set_isbn_title": "Applied Mechanics of Solids - 2 VOL SET",
+    "volume_count": 2,
+    "associated_volumes": "9781041019954, 9781041237174",
+    "volume_titles": "Applied Mechanics of Solids | Solved Problems in Applied Mechanics of Solids"
   },
   {
     "set_isbn": "9781041243595",
