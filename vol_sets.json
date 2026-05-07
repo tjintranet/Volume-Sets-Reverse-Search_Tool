@@ -1162,6 +1162,13 @@
     "volume_titles": "Foreign Exchange and Foreign Debts | Modern Foreign Exchange | The Interest Standard of Currency | Essays on Rational Expectations Flexible Exchange Rates | The Forward Market in Foreign Exchange | Effects of Real Exchange Rate Volatility | Expectations and the Foreign Exchange Market | The Impact of Price Uncertainty | The Exchange Rate Environment | Exchange Rates and Prices | Foreign Exchange | Seasonal Movements of Exchange Rates"
   },
   {
+    "set_isbn": "9780415813792",
+    "set_isbn_title": "Handbook of Eyewitness Psychology 2 Volume Set",
+    "volume_count": 2,
+    "associated_volumes": "9780805851519, 9780805851526",
+    "volume_titles": "Handbook of Eyewitness Psych Memory for Events Vol I | Handbook of Eyewitness Psych Memory for People Vol II"
+  },
+  {
     "set_isbn": "9780415819619",
     "set_isbn_title": "RLE Hamlet - 4 VOL SET",
     "volume_count": 4,
@@ -1995,6 +2002,13 @@
     "volume_titles": "Heat Exchangers - V1 | Heat Exchangers - V2 | Heat Exchangers - V3"
   },
   {
+    "set_isbn": "9781032406114",
+    "set_isbn_title": "Mathematics Manual for Water Treatment Operators Vol Set",
+    "volume_count": 3,
+    "associated_volumes": "9781032406848, 9781032406862, 9781032406886",
+    "volume_titles": "Basic Maths for Water & Wastewater Operators Vol II | Water Treatment Operations Vol I | Wastewater Treatment Operations Math Concepts Vol III"
+  },
+  {
     "set_isbn": "9781032408309",
     "set_isbn_title": "Financial Mathematics Vol Set",
     "volume_count": 2,
@@ -2556,7 +2570,7 @@
   },
   {
     "set_isbn": "9781032772943",
-    "set_isbn_title": "Applied Mechanics of Solids - 8 VOL SET",
+    "set_isbn_title": "Industrial Water and Waste Treatment (Eight-Volume set)",
     "volume_count": 8,
     "associated_volumes": "9781032772950, 9781032772967, 9781032772981, 9781041043911, 9781041043935, 9781041043959, 9781041059479, 9781041068150",
     "volume_titles": "Industrial Water & Waste Treatment - Fundamentals | Industrial Water & Waste Treatment - Research Dev | Industrial Water & Waste Treatment - Tech Dev | Industrial Water & Waste Treatment - Process Dev | Industrial Water & Waste Treatment - Pollution Control | Industrial Water & Waste Treatment - Resource Con | Industrial Water & Waste Treatment - Case Studies | Industrial Water & Waste Treatment - Innovative Sol"
@@ -3269,11 +3283,25 @@
     "volume_titles": "Advances in Computational Methods Science & Tech Vol 1 | Advances in Computational Methods Science & Tech Vol 2"
   },
   {
+    "set_isbn": "9781041246220",
+    "set_isbn_title": "Security Relationship Management & Shortest Hour Bundle",
+    "volume_count": 2,
+    "associated_volumes": "9781032761633, 9781032981840",
+    "volume_titles": "The Shortest Hour | Security Relationship Management"
+  },
+  {
     "set_isbn": "9781041246237",
     "set_isbn_title": "Comprehensive Primer on Privacy Management Volume Set",
     "volume_count": 5,
     "associated_volumes": "9781032039138, 9781032125473, 9781032185187, 9781032487700, 9781032912554",
     "volume_titles": "Controlling Privacy & Use of Data Assets - V1 | Privacy in Practice | Controlling Privacy & Use of Data Assets - V2 | Safeguarding the Future | Navigating the Cyber Maze"
+  },
+  {
+    "set_isbn": "9781041279303",
+    "set_isbn_title": "Integrative Approach to Fungal Infections Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781041061380, 9781041269625",
+    "volume_titles": "Integrative Approach to Fungal Infections Vol 1 | Integrative Approach to Fungal Infections Vol 2"
   },
   {
     "set_isbn": "9781107131705",
