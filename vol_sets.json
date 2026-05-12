@@ -14,6 +14,13 @@
     "volume_titles": "Linear Differential Equations & Oscillators | Non-Linear Differential Equations Dynamical Sys | Higher-Order Differential Equations & Elasticity | Simultaneous Systems Differential Equations | Singular Differential Equations Special Functions | Classification & Examples Differential Equations"
   },
   {
+    "set_isbn": "9780367180638",
+    "set_isbn_title": "On East Asian Regional Cooperation Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9780815374442, 9780815383062",
+    "volume_titles": "On East Asian Regional Cooperation I | On East Asian Regional Cooperation II"
+  },
+  {
     "set_isbn": "9780367210953",
     "set_isbn_title": "Emotions in Europe 1517-1914 - Vol Set",
     "volume_count": 4,
@@ -343,6 +350,13 @@
     "volume_titles": "Bertrand Russell -Crit Asses V1 | Bertrand Russell -Crit Asses V2 | Bertrand Russell -Crit Asses V3 | Bertrand Russell -Crit Asses V4"
   },
   {
+    "set_isbn": "9780415143325",
+    "set_isbn_title": "Jevons Vol Set",
+    "volume_count": 4,
+    "associated_volumes": "9780415143332, 9780415143349, 9780415143356, 9780415143363",
+    "volume_titles": "JevonsCrit Responses       V1 | JevonsCrit Responses       V2 | JevonsCrit Responses       V3 | JevonsCrit Responses       V4"
+  },
+  {
     "set_isbn": "9780415144506",
     "set_isbn_title": "Origins of American Banking Vol Set",
     "volume_count": 7,
@@ -399,6 +413,27 @@
     "volume_titles": "Spinoza V1 | Spinoza V2 | Spinoza V3 | Spinoza V4"
   },
   {
+    "set_isbn": "9780415216302",
+    "set_isbn_title": "Japanese Economy Sets 1&2 8 Vol Set",
+    "volume_count": 8,
+    "associated_volumes": "9780415174312, 9780415174329, 9780415174336, 9780415174343, 9780415174367, 9780415174374, 9780415174381, 9780415174398",
+    "volume_titles": "Japanese Economy Set 1      V1 | Japanese Economy Set 1      V2 | Japanese Economy Set 1      V3 | Japanese Economy Set 1      V4 | Japanese Economy Set 2      V1 | Japanese Economy Set 2      V2 | Japanese Economy Set 2      V3 | Japanese Economy Set 2      V4"
+  },
+  {
+    "set_isbn": "9780415220897",
+    "set_isbn_title": "Science Tech & R&D In Japan Vol Set",
+    "volume_count": 3,
+    "associated_volumes": "9780415220866, 9780415220873, 9780415220880",
+    "volume_titles": "Science Tech & R&D In Japan V1 | Science Tech & R&D In Japan V2 | Science Tech & R&D In Japan V3"
+  },
+  {
+    "set_isbn": "9780415239134",
+    "set_isbn_title": "Target Organ Toxicity in Marine & Freshwater Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9780415248389, 9780415248396",
+    "volume_titles": "Target Organ Toxicity in Marine & Freshwater Vol 1 | Target Organ Toxicity in Marine & Freshwater Vol 2"
+  },
+  {
     "set_isbn": "9780415242370",
     "set_isbn_title": "Modernism - 5 VOL SET",
     "volume_count": 5,
@@ -446,6 +481,20 @@
     "volume_count": 4,
     "associated_volumes": "9780415288460, 9780415288477, 9780415288484, 9780415288491",
     "volume_titles": "Pragmatism Critical Concept V1 | Pragmatism Critical Concept V2 | Pragmatism Critical Concept V3 | Pragmatism Critical Concept V4"
+  },
+  {
+    "set_isbn": "9780415289221",
+    "set_isbn_title": "The Evolution Debate 1813-1870 Vol Set",
+    "volume_count": 9,
+    "associated_volumes": "9780415289238, 9780415289245, 9780415289252, 9780415289269, 9780415289276, 9780415289283, 9780415289290, 9780415289306, 9780415327398",
+    "volume_titles": "Essay on the Theory of the Earth 1813 | Geology & Mineralogy Reference Natural Theology Vol I | Geology & Mineralogy Considered with Reference to Natural | Omphalos 1857 | The Evolution Debate 1813–1870 | Palaeontology 1860 | Mans Place in Nature 1863 | Geological Evidence of the Antiquity of Man 1863 | Alfred Russell Wallace Contributions to the theory of Natu"
+  },
+  {
+    "set_isbn": "9780415290159",
+    "set_isbn_title": "Fascism Vol Set",
+    "volume_count": 5,
+    "associated_volumes": "9780415290166, 9780415290173, 9780415290180, 9780415290197, 9780415290203",
+    "volume_titles": "FascismCrit Concepts Pol   V1 | FascismCrit Concepts Pol   V2 | FascismCrit Concepts Pol   V3 | FascismCrit Concepts Pol   V4 | FascismCrit Concepts Pol   V5"
   },
   {
     "set_isbn": "9780415290531",
@@ -539,6 +588,13 @@
     "volume_titles": "The World Trade Organization Volume 1 | The World Trade Organization Volume 2 | The World Trade Organization Volume 3 | The World Trade Organization Volume 4 | The World Trade Organization Volume 5"
   },
   {
+    "set_isbn": "9780415368827",
+    "set_isbn_title": "Men & Masculinities Vol Set",
+    "volume_count": 5,
+    "associated_volumes": "9780415368834, 9780415368841, 9780415368858, 9780415368872, 9780415402088",
+    "volume_titles": "Men & Masculinities Vol 1 | Men & Masculinities Vol 2 | Men & Masculinities Vol 3 | Men & Masculinities Vol 4 | Men & Masculinities Vol 5"
+  },
+  {
     "set_isbn": "9780415379571",
     "set_isbn_title": "Subcultures - 4 VOL SET",
     "volume_count": 4,
@@ -616,11 +672,25 @@
     "volume_titles": "Politics of Modern Taiwan V1 | Politics of Modern Taiwan V2 | Politics of Modern Taiwan V3 | Politics of Modern Taiwan V4"
   },
   {
+    "set_isbn": "9780415440660",
+    "set_isbn_title": "Fracture Mechanics of Concrete and Concrete Struct Vol Set",
+    "volume_count": 3,
+    "associated_volumes": "9780415440653, 9780415446167, 9780415446174",
+    "volume_titles": "New Trends in Fracture Mechanics of Concrete | Design Assessment & Retrofitting of RC Structures | High-Performance Concrete Brick-Masonry & Environmental A"
+  },
+  {
     "set_isbn": "9780415450119",
     "set_isbn_title": "Art and Aesthetics - 4 VOLUME SET",
     "volume_count": 4,
     "associated_volumes": "9780415450126, 9780415450133, 9780415450140, 9780415450157",
     "volume_titles": "Art and Aesthetics Vol 1 | Art and Aesthetics Vol 2 | Art and Aesthetics Vol 3 | Art and Aesthetics Vol 4"
+  },
+  {
+    "set_isbn": "9780415450737",
+    "set_isbn_title": "Today & Tomorrow Mankind & Civilization Mini set A Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9780415461702, 9780415461764",
+    "volume_titles": "Today & Tomorrow Mankind & Civilization Vol 1 | Today & Tomorrow Mankind & Civilization Vol 2"
   },
   {
     "set_isbn": "9780415452199",
@@ -658,6 +728,13 @@
     "volume_titles": "The Politics and International Relations Modern Korea V1 | The Politics and International Relations Modern Korea V2 | The Politics and International Relations Modern Korea V3 | The Politics and International Relations Modern Korea V4"
   },
   {
+    "set_isbn": "9780415463102",
+    "set_isbn_title": "Today & Tomorrow Child & Education Mini set D Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9780415462754, 9780415462846",
+    "volume_titles": "Today & Tomorrow Vol 6 Child & Education | Today & Tomorrow Vol 7 Child & Education"
+  },
+  {
     "set_isbn": "9780415468275",
     "set_isbn_title": "World Christianity - 4 VOLUME SET",
     "volume_count": 4,
@@ -677,6 +754,13 @@
     "volume_count": 4,
     "associated_volumes": "9780415471909, 9780415471923, 9780415471930, 9780415471947",
     "volume_titles": "Philosophy of Mind Vol 1 | Philosophy of Mind Vol 2 | Philosophy of Mind Vol 3 | Philosophy of Mind Vol 4"
+  },
+  {
+    "set_isbn": "9780415472579",
+    "set_isbn_title": "Roland Barthes Vol Set",
+    "volume_count": 4,
+    "associated_volumes": "9780415472586, 9780415472593, 9780415472609, 9780415472616",
+    "volume_titles": "Roland Barthes V1 | Roland Barthes V2 | Roland Barthes V3 | Roland Barthes V4"
   },
   {
     "set_isbn": "9780415476232",
@@ -740,6 +824,13 @@
     "volume_count": 4,
     "associated_volumes": "9780415528399, 9780415528405, 9780415528412, 9780415528429",
     "volume_titles": "Islamic Economics - V1 | Islamic Economics - V2 | Islamic Economics - V3 | Islamic Economics - V4"
+  },
+  {
+    "set_isbn": "9780415519984",
+    "set_isbn_title": "Revolutionary America 1763-1815 Vol Set",
+    "volume_count": 4,
+    "associated_volumes": "9780415964869, 9780415997126, 9781032150321, 9781138892057",
+    "volume_titles": "Revolutionary America 1763-1815 2nd Ed | Revolutionary America 1763-1815 Sourcebook | Revolutionary America 1763-1815 4th Ed | Revolutionary America 1763-1815 3rd Ed"
   },
   {
     "set_isbn": "9780415520027",
@@ -901,6 +992,13 @@
     "volume_count": 4,
     "associated_volumes": "9780415630696, 9780415630702, 9780415630719, 9780415630726",
     "volume_titles": "Human Capitol Volume 1 | Human Capitol Volume 2 | Human Capitol Volume 3 | Human Capitol Volume 4"
+  },
+  {
+    "set_isbn": "9780415624886",
+    "set_isbn_title": "Armed Conflicts in South Asia 2008-2011 Vol Set",
+    "volume_count": 4,
+    "associated_volumes": "9780415476225, 9780415529631, 9780415564441, 9780415612562",
+    "volume_titles": "Armed Conflicts in South Asia 2008 | Armed Conflicts in South Asia 2011 | Armed Conflicts in South Asia 2009 | Armed Conflicts in South Asia 2010"
   },
   {
     "set_isbn": "9780415635066",
@@ -1335,6 +1433,13 @@
     "volume_count": 2,
     "associated_volumes": "9780727759771, 9780727759788",
     "volume_titles": "From Sea to Shore - V1 | From Sea to Shore - V2"
+  },
+  {
+    "set_isbn": "9780754606543",
+    "set_isbn_title": "Studies in the History of Civil Engineering 12 Vol Set",
+    "volume_count": 12,
+    "associated_volumes": "9780860787501, 9780860787518, 9780860787525, 9780860787532, 9780860787549, 9780860787556, 9780860787563, 9780860787570, 9780860787587, 9780860787594, 9780860787600, 9780860787617",
+    "volume_titles": "The Engineering of Medieval Cathedrals | Masonry Bridges Viaducts & Aqueducts | Land Drainage & Irrigation | Dams | Water-Supply & Public Health Engineering | Port & Harbour Engineering | The Civil Engineering of Canals & Railways before 1850 | The Development of Timber as a Structural Material | Structural Iron 1750–1850 | Structural Iron & Steel 1850–1900 | Early Reinforced Concrete | Structural & Civil Engineering Design"
   },
   {
     "set_isbn": "9780754625001",
@@ -1848,6 +1953,13 @@
     "volume_titles": "Reconsideration of Science & Technology I | Reconsideration of Science & Technology II | Reconsideration of Science & Technology III"
   },
   {
+    "set_isbn": "9781032306032",
+    "set_isbn_title": "From Birth to Five Years Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9780367522513, 9780367522551",
+    "volume_titles": "Mary Sheridans Birth to Five Years | From Birth to Five Years"
+  },
+  {
     "set_isbn": "9781032307664",
     "set_isbn_title": "Secret Subversion - 2 VOL SET",
     "volume_count": 2,
@@ -1979,6 +2091,13 @@
     "volume_count": 2,
     "associated_volumes": "9781032169408, 9781032169415",
     "volume_titles": "Critical History of Psychotherapy Vol 1 | Critical History of Psychotherapy Vol 2"
+  },
+  {
+    "set_isbn": "9781032364889",
+    "set_isbn_title": "Ancient Chinese Academy Confucianism Society Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032364896, 9781032364902",
+    "volume_titles": "Ancient Chinese Academy Confucianism Society I | Ancient Chinese Academy Confucianism Society II"
   },
   {
     "set_isbn": "9781032367996",
@@ -3073,6 +3192,13 @@
     "volume_titles": "Descriptosaurus - Action & Adventure | Descriptosaurus - Myths & Legends | Descriptosaurus - Ghost Stories | Descriptosaurus - Fantasy"
   },
   {
+    "set_isbn": "9781041090311",
+    "set_isbn_title": "Descriptosaurus Punctuation in Action 4 Vol Set",
+    "volume_count": 4,
+    "associated_volumes": "9781032040790, 9781032040844, 9781032040875, 9781032040950",
+    "volume_titles": "Descriptosaurus Punctuation in Action Year 2 Captain Moody | Descriptosaurus Punctuation in Action Year 1 The Ninjabrea | Descriptosaurus Punctuation in Action Year 3 Ruby Red | Descriptosaurus Punctuation in Action Years 4-6 Jack & the"
+  },
+  {
     "set_isbn": "9781041090427",
     "set_isbn_title": "John Hattie Visible Learning 4 Book Bundle Volume Set",
     "volume_count": 4,
@@ -3428,6 +3554,13 @@
     "volume_count": 4,
     "associated_volumes": "9781138017191, 9781138017207, 9781138017214, 9781138017221",
     "volume_titles": "The History of Medicine V1 | The History of Medicine V2 | The History of Medicine V3 | The History of Medicine V4"
+  },
+  {
+    "set_isbn": "9781138025745",
+    "set_isbn_title": "Women and Gender in the Early Modern World Vol Set",
+    "volume_count": 4,
+    "associated_volumes": "9781138025752, 9781138025769, 9781138025776, 9781138025783",
+    "volume_titles": "Women and Gender in the Early Modern World Vol 1 | Women and Gender in the Early Modern World Vol 2 | Women and Gender in the Early Modern World Vol 3 | Women and Gender in the Early Modern World Vol 4"
   },
   {
     "set_isbn": "9781138027077",
@@ -4746,6 +4879,13 @@
     "volume_titles": "Wireless Networking Radar Sensor Array | Digital Signal Processing Fundamentals | Video Speech Audio Signal Processing"
   },
   {
+    "set_isbn": "9781420054934",
+    "set_isbn_title": "Male Sexual and Reproductive Dysfunction Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9780824724399, 9781574448481",
+    "volume_titles": "Male Sexual Dysfunction | Male Reproductive Dysfunction"
+  },
+  {
     "set_isbn": "9781420059342",
     "set_isbn_title": "Hbk of Pressure-Sensitive Adhesives - 3 VOL SET",
     "volume_count": 3,
@@ -4760,11 +4900,25 @@
     "volume_titles": "Modern Pharmaceutics - V1 | Modern Pharmaceutics - V2"
   },
   {
+    "set_isbn": "9781420080018",
+    "set_isbn_title": "Sleep and Sleep and Breathing in Children Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781420060805, 9781420060829",
+    "volume_titles": "Sleep in Children | Sleep & Breathing in Children"
+  },
+  {
     "set_isbn": "9781439828267",
     "set_isbn_title": "Handbook for Critical Cleaning - 2 VOL SET",
     "volume_count": 2,
     "associated_volumes": "9781439828274, 9781439828298",
     "volume_titles": "Handbook for Critical Cleaning - V1 | Handbook for Critical Cleaning - V2"
+  },
+  {
+    "set_isbn": "9781439840900",
+    "set_isbn_title": "Surfactants in Tribology Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781420060072, 9781439840641",
+    "volume_titles": "Surfactants in Tribology Volume 1 | Surfactants in Tribology Volume 2"
   },
   {
     "set_isbn": "9781439852057",
@@ -4863,6 +5017,13 @@
     "volume_count": 2,
     "associated_volumes": "9781498733298, 9781498733403",
     "volume_titles": "Principles of Electromagnetic Waves & Materials | Advanced Electromagnetic Computation"
+  },
+  {
+    "set_isbn": "9781498740319",
+    "set_isbn_title": "Mathematical Statistics Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781498722681, 9781498723800",
+    "volume_titles": "Mathematical Statistics Vol 2 | Mathematical Statistics Vol 1"
   },
   {
     "set_isbn": "9781560327721",
@@ -5194,11 +5355,25 @@
     "volume_titles": "The Collected Works of Melanie Klein Vol 1 | The Collected Works of Melanie Klein Vol 2 | The Collected Works of Melanie Klein Vol 3 | The Collected Works of Melanie Klein Vol 4"
   },
   {
+    "set_isbn": "9781844076468",
+    "set_isbn_title": "Soil Science Vol Set",
+    "volume_count": 4,
+    "associated_volumes": "9781032513638, 9781032513645, 9781032513652, 9781032513713",
+    "volume_titles": "Soil Science Vol 1 | Soil Science Vol 2 | Soil Science Vol 3 | Soil Science Vol 4"
+  },
+  {
     "set_isbn": "9781846195884",
     "set_isbn_title": "Succeeding in Paediatric Surgery Exam - 2 VOL SET",
     "volume_count": 2,
     "associated_volumes": "9781846193934, 9781846193941",
     "volume_titles": "Succeeding in Paediatric Surgery Exam V1 | Succeeding in Paediatric Surgery Exam V2"
+  },
+  {
+    "set_isbn": "9781846199509",
+    "set_isbn_title": "The Integrated Practitioner Vol Set",
+    "volume_count": 5,
+    "associated_volumes": "9781846197727, 9781846197734, 9781846197741, 9781846197758, 9781846197765",
+    "volume_titles": "Surviving & Thriving in Health Practice | Turning Tyrants into Tools in Health Practice | Co-Creating in Health Practice | Integrating Everything | Food for Thought"
   },
   {
     "set_isbn": "9781848721685",
@@ -5705,6 +5880,13 @@
     "volume_titles": "Culture Power & Politics in T-P Japan 1854-1899 Vol 1 | Culture Power & Politics in T-P Japan 1854-1899 Vol 2"
   },
   {
+    "set_isbn": "9781903350126",
+    "set_isbn_title": "Collected Writings Modern West Scholars Japan V7-9 Vol Set",
+    "volume_count": 3,
+    "associated_volumes": "9781903350096, 9781903350102, 9781903350119",
+    "volume_titles": "Collected Writings of Ian Nish | Collected Writings of R.P. Dore | Richard Storry"
+  },
+  {
     "set_isbn": "9781912961252",
     "set_isbn_title": "Accessing Technical Education in Modern Japan Vol Set",
     "volume_count": 2,
@@ -5738,6 +5920,13 @@
     "volume_count": 2,
     "associated_volumes": "9781032799773, 9781032799797",
     "volume_titles": "Technology & Biochemistry of Wine | Technology & Biochemistry of Wine"
+  },
+  {
+    "set_isbn": "9789061910725",
+    "set_isbn_title": "Structural Foundations on Rock volume Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9789061910732, 9789061910749",
+    "volume_titles": "Structural Foundations on Rock volume 1 | Structural Foundations on Rock volume 2"
   },
   {
     "set_isbn": "9789462986060",
