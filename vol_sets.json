@@ -1,5 +1,12 @@
 [
   {
+    "set_isbn": "9780367002183",
+    "set_isbn_title": "Big Data in Omics and Imaging Two Volume Set",
+    "volume_count": 2,
+    "associated_volumes": "9780815387107, 9781498725781",
+    "volume_titles": "Big Data in Omics & Imaging Vol 2 | Big Data in Omics and Imaging Vol 1"
+  },
+  {
     "set_isbn": "9780367086725",
     "set_isbn_title": "New Reference & Practising Spanish Grammar Vol Set",
     "volume_count": 2,
@@ -19,6 +26,13 @@
     "volume_count": 2,
     "associated_volumes": "9780815374442, 9780815383062",
     "volume_titles": "On East Asian Regional Cooperation I | On East Asian Regional Cooperation II"
+  },
+  {
+    "set_isbn": "9780367181239",
+    "set_isbn_title": "Chawton House Library: Womens Novels 11-20 Ten Volume Set",
+    "volume_count": 10,
+    "associated_volumes": "9781848930261, 9781848931091, 9781848931381, 9781848931688, 9781848933361, 9781848933903, 9781848933927, 9781848934023, 9781848934412, 9781851962822",
+    "volume_titles": "Translations and Continuations | The Citizen | The History of Lady Julia Mandeville | Florence Macarthy - an Irish Tale | The Rash Resolve and Lifes Progress | Sketches of Irish Character | Caroline of Lichtfield | Self-Control | The Invisible Spy | The Private History of the Court of England"
   },
   {
     "set_isbn": "9780367210953",
@@ -817,6 +831,41 @@
     "volume_count": 4,
     "associated_volumes": "9780415505796, 9780415505819, 9780415505826, 9780415505833",
     "volume_titles": "Early Islamic History CC V1 | Early Islamic History CC V2 | Early Islamic History CC V3 | Early Islamic History CC V4"
+  },
+  {
+    "set_isbn": "9780415509213",
+    "set_isbn_title": "World Yearbook of Education 2001-2010 Ten Volume Set",
+    "volume_count": 10,
+    "associated_volumes": "9780415500982, 9780415500999, 9780415501002, 9780415501057, 9780415501132, 9780415501149, 9780415501170, 9780415505284, 9780415505345, 9780415505437",
+    "volume_titles": "World Yearbook of Education 2007 | World Yearbook of Education 2006 | World Yearbook of Education 2005 | World Yearbook of Education 2004 | World Yearbook of Education 2003 | World Yearbook of Education 2002 | World Yearbook of Education 2001 | World Yearbook of Education 2008 | World Yearbook of Education 2009 | World Yearbook of Education 2010"
+  },
+  {
+    "set_isbn": "9780415509220",
+    "set_isbn_title": "World Yearbook of Education 1991-2000 Ten Volume Set",
+    "volume_count": 10,
+    "associated_volumes": "9780415501187, 9780415501330, 9780415501361, 9780415501378, 9780415501385, 9780415501415, 9780415501651, 9780415501682, 9780415501699, 9780415501705",
+    "volume_titles": "World Yearbook of Education 2000 | World Yearbook of Education 1999 | World Yearbook of Education 1998 | World Yearbook of Education 1997 | World Yearbook of Education 1996 | World Yearbook of Education 1995 | World Yearbook of Education 1994 | World Yearbook of Education 1993 | World Yearbook of Education 1992 | World Yearbook of Education 1991"
+  },
+  {
+    "set_isbn": "9780415509237",
+    "set_isbn_title": "World yearbook of education 1980-1990 Eight Volume Set",
+    "volume_count": 8,
+    "associated_volumes": "9780415501743, 9780415501750, 9780415501767, 9780415501781, 9780415501798, 9780415501811, 9780415502290, 9780415502344",
+    "volume_titles": "World Yearbook of Education 1989 | World Yearbook of Education 1988 | World Yearbook of Education 1987 | World Yearbook of Education 1986 | World Yearbook of Education 1985 | World Yearbook of Education 1984 | World Yearbook of Education 1982-83 | World Yearbook of Education 1980"
+  },
+  {
+    "set_isbn": "9780415509244",
+    "set_isbn_title": "World yearbook of education 1965-1979 Ten Volume Set",
+    "volume_count": 10,
+    "associated_volumes": "9780415502351, 9780415502450, 9780415502467, 9780415502481, 9780415502498, 9780415502504, 9780415502511, 9780415502535, 9780415502559, 9780415505475",
+    "volume_titles": "World Yearbook of Education 1979 | World Yearbook of Education 1974 | World Yearbook of Education 1972-73 | World Yearbook of Education 1971-72 | World Yearbook of Education 1970 | World Yearbook of Education 1969 | World Yearbook of Education 1968 | World Yearbook of Education 1967 | World Yearbook of Education 1965 | World Yearbook of Education 1966"
+  },
+  {
+    "set_isbn": "9780415509251",
+    "set_isbn_title": "World Yearbook of Education 1965-2010 Thirty Eight Vol Set",
+    "volume_count": 38,
+    "associated_volumes": "9780415500982, 9780415500999, 9780415501002, 9780415501057, 9780415501132, 9780415501149, 9780415501170, 9780415501187, 9780415501330, 9780415501361, 9780415501378, 9780415501385, 9780415501415, 9780415501651, 9780415501682, 9780415501699, 9780415501705, 9780415501743, 9780415501750, 9780415501767, 9780415501781, 9780415501798, 9780415501811, 9780415502290, 9780415502344, 9780415502351, 9780415502450, 9780415502467, 9780415502481, 9780415502498, 9780415502504, 9780415502511, 9780415502535, 9780415502559, 9780415505284, 9780415505345, 9780415505437, 9780415505475",
+    "volume_titles": "World Yearbook of Education 2007 | World Yearbook of Education 2006 | World Yearbook of Education 2005 | World Yearbook of Education 2004 | World Yearbook of Education 2003 | World Yearbook of Education 2002 | World Yearbook of Education 2001 | World Yearbook of Education 2000 | World Yearbook of Education 1999 | World Yearbook of Education 1998 | World Yearbook of Education 1997 | World Yearbook of Education 1996 | World Yearbook of Education 1995 | World Yearbook of Education 1994 | World Yearbook of Education 1993 | World Yearbook of Education 1992 | World Yearbook of Education 1991 | World Yearbook of Education 1989 | World Yearbook of Education 1988 | World Yearbook of Education 1987 | World Yearbook of Education 1986 | World Yearbook of Education 1985 | World Yearbook of Education 1984 | World Yearbook of Education 1982-83 | World Yearbook of Education 1980 | World Yearbook of Education 1979 | World Yearbook of Education 1974 | World Yearbook of Education 1972-73 | World Yearbook of Education 1971-72 | World Yearbook of Education 1970 | World Yearbook of Education 1969 | World Yearbook of Education 1968 | World Yearbook of Education 1967 | World Yearbook of Education 1965 | World Yearbook of Education 2008 | World Yearbook of Education 2009 | World Yearbook of Education 2010 | World Yearbook of Education 1966"
   },
   {
     "set_isbn": "9780415519601",
@@ -3178,6 +3227,13 @@
     "volume_titles": "Parents as Educators | Schooling Welfare & Parental Responsibility | Moral Education | The Contribution of Parents to School Effectiveness | Children & Parents Enjoying Reading | Working with Parents | Listening to Parents | Home–School Work in Multicultural Settings | Parent Power | Parents Should Be Heard | Parents & Teachers"
   },
   {
+    "set_isbn": "9781041085317",
+    "set_isbn_title": "The Future of Geotechnical Engineering Three Volume Set",
+    "volume_count": 3,
+    "associated_volumes": "9781041085478, 9781041085522, 9781041085546",
+    "volume_titles": "GeoVadis: The Future of Geotechnical Engineering Vol 1 | GeoVadis: The Future of Geotechnical Engineering Vol 2 | GeoVadis: The Future of Geotechnical Engineering Vol 3"
+  },
+  {
     "set_isbn": "9781041089872",
     "set_isbn_title": "Stats Analytics for Health Data Science SAS & R Vol Set",
     "volume_count": 2,
@@ -3430,6 +3486,13 @@
     "volume_titles": "Integrative Approach to Fungal Infections Vol 1 | Integrative Approach to Fungal Infections Vol 2"
   },
   {
+    "set_isbn": "9781041361657",
+    "set_isbn_title": "Innovations in Maritime Tech & Engineering Two Volume Set",
+    "volume_count": 2,
+    "associated_volumes": "9781041333708, 9781041361633",
+    "volume_titles": "Innovations in Maritime Tech & Engineering Vol 1 | Innovations in Maritime Tech & Engineering Vol 2"
+  },
+  {
     "set_isbn": "9781107131705",
     "set_isbn_title": "The Cambridge Handbook of Social Theory 2 vols set",
     "volume_count": 2,
@@ -3540,6 +3603,13 @@
     "volume_count": 4,
     "associated_volumes": "9781138823273, 9781138823280, 9781138823297, 9781138823303",
     "volume_titles": "The Silk Roads - VOL 1 | The Silk Roads - VOL 2 | The Silk Roads - VOL 3 | The Silk Roads - VOL 4"
+  },
+  {
+    "set_isbn": "9781138016071",
+    "set_isbn_title": "Janks BP Bundle Two Volume Set",
+    "volume_count": 2,
+    "associated_volumes": "9780415528108, 9780415999632",
+    "volume_titles": "Doing Critical Literacy | Literacy and Power"
   },
   {
     "set_isbn": "9781138016729",
@@ -5346,6 +5416,13 @@
     "volume_count": 2,
     "associated_volumes": "9781779640246, 9781779640260",
     "volume_titles": "Chromosomal & Genomic Structures & Functions | Chromosomal & Genomic Structures & Functions"
+  },
+  {
+    "set_isbn": "9781779644268",
+    "set_isbn_title": "Insect-Plant Interactions Two Volume Set",
+    "volume_count": 2,
+    "associated_volumes": "9781779644275, 9781779644299",
+    "volume_titles": "Insect-Plant Interactions Vol 1 | Insect-Plant Interactions Vol 2"
   },
   {
     "set_isbn": "9781782204633",
