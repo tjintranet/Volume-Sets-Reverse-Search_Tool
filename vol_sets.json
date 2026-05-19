@@ -3521,6 +3521,13 @@
     "volume_titles": "The Cambridge History of the American Revolution v1 | The Cambridge History of the American Revolution v3 | The Cambridge History of the American Revolution v2"
   },
   {
+    "set_isbn": "9781108567817",
+    "set_isbn_title": "Cambridge History Age of Atlantic Revolutions 3 Vol Set",
+    "volume_count": 3,
+    "associated_volumes": "9781108475969, 9781108475983, 9781108476034",
+    "volume_titles": "The Cambridge History of the Age of Atlantic Revolutions V | The Cambridge History of the Age of Atlantic Revolutions V | The Cambridge History of the Age of Atlantic Revolutions V"
+  },
+  {
     "set_isbn": "9781108680950",
     "set_isbn_title": "The Cambridge History of the Papacy Vol Set",
     "volume_count": 3,
