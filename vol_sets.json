@@ -1722,6 +1722,13 @@
     "volume_titles": "Energy Applications 2D Nanomaterials | 2D Nanomaterials"
   },
   {
+    "set_isbn": "9781032033518",
+    "set_isbn_title": "Advanced Analytics for Industry 4.0 Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032033440, 9781032033471",
+    "volume_titles": "Advanced Analytics for Industry 4.0 Trad Industries | Advanced Analytics for Industry 4.0 Tech Industries"
+  },
+  {
     "set_isbn": "9781032035222",
     "set_isbn_title": "Enzymes in Valorization of Waste Vol Set",
     "volume_count": 3,
@@ -2231,6 +2238,13 @@
     "volume_count": 4,
     "associated_volumes": "9781032448558, 9781032448565, 9781032448589, 9781032448596",
     "volume_titles": "Finance & Culture in Nineteenth Century Britain Volume I | Finance & Culture in Nineteenth Century Britain Volume II | Finance & Culture in Nineteenth Century Britain Volume III | Finance & Culture in Nineteenth Century Britain Volume IV"
+  },
+  {
+    "set_isbn": "9781032454900",
+    "set_isbn_title": "Circus in the Long Nineteenth Century Vol Set",
+    "volume_count": 5,
+    "associated_volumes": "9781032454917, 9781032454924, 9781032454931, 9781032454948, 9781032454955",
+    "volume_titles": "Circus in the Long Nineteenth Century Vol 1 | Circus in the Long Nineteenth Century Vol 2 | Circus in the Long Nineteenth Century Vol 3 | Circus in the Long Nineteenth Century Vol 4 | Circus in the Long Nineteenth Century Vol 5"
   },
   {
     "set_isbn": "9781032461021",
@@ -3192,11 +3206,25 @@
     "volume_titles": "The Aims & Outcomes of Social Policy Research | Housing Social Policy & the State | Introduction to Social Administration in Britain | Social Policy in the Irish Republic | An Introduction to the Study of Social Administration | Caring for Strangers | A Code of Ethics for Social Work | The Study of Social Policy | Poor Parents | Social Policy in Action | Introducing Social Policy | The English Prison Officer Since 1850 | To Do The Sick No Harm | Retiring to the Seaside"
   },
   {
+    "set_isbn": "9781041068846",
+    "set_isbn_title": "日本語 NOW! NihonGO NOW! L1 V1 Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032758480, 9781032758565",
+    "volume_titles": "日本語 NOW! NihonGO NOW! L1 V1 Textbook | 日本語 NOW! NihonGO NOW! L1 V1 Activity Book"
+  },
+  {
     "set_isbn": "9781041068853",
     "set_isbn_title": "NOW! NihonGO NOW! Vol Set 1",
     "volume_count": 2,
     "associated_volumes": "9781032758503, 9781032758527",
     "volume_titles": "日本語 NOW! NihonGO NOW! Level 1 Volume 1 Activity Book | NOW! NihonGO NOW! Level 1 Volume 1 Textbook"
+  },
+  {
+    "set_isbn": "9781041069096",
+    "set_isbn_title": "日本語 NOW! NihonGO NOW! L1 V2 Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032758534, 9781032758572",
+    "volume_titles": "日本語 NOW! NihonGO NOW! L1 V2 Textbook | 日本語 NOW! NihonGO NOW! L1 V2 Activity Book"
   },
   {
     "set_isbn": "9781041069140",
@@ -3451,6 +3479,20 @@
     "volume_titles": "The Regions & the European Community | The Barons of European Industry | Customs Unions & Trade Conflicts | Economic Integration & Growth in Europe | Ethics & European Security | Health Care in the European Community | Nursing in the European Community | Regional Development in the European Economic Community | The Common Fisheries Policy of the European Community | European Industrial Policy | The Power of the Purse in the European Communities | Free Trade & Competition in the EEC | Mental Health Care in the European Community | A Competitive Future for Europe? | Continuity & Change in European Society | Economic Divergence in the European Community | Environmental Profiles of European Business | European Technological Collaboration | Europes Domestic Market | The Politics of Coals Decline | Protection & Industrial Policy in Europe | The Operation of the European Social Fund | Planning in Europe | The Politicisation of Business in Western Europe | Public Enterprise in Western Europe | The Romanian Economy in the Twentieth Century | The Spanish Economy in the 20th Century | Western Europe"
   },
   {
+    "set_isbn": "9781041216384",
+    "set_isbn_title": "Memory State & Past Remembering in EC & NE Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032939872, 9781032940069",
+    "volume_titles": "Memory State & Past Remembering in EC & NE Vol 1 | Memory State & Past Remembering in EC & NE Vol 2"
+  },
+  {
+    "set_isbn": "9781041216391",
+    "set_isbn_title": "Memory State & Past Remembering in EC & NE Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032939865, 9781032940007",
+    "volume_titles": "Memory State & Past Remembering in EC & NE Vol 1 | Memory State & Past Remembering in EC & NE Vol 2"
+  },
+  {
     "set_isbn": "9781041237204",
     "set_isbn_title": "Applied Mechanics of Solids - 2 VOL SET",
     "volume_count": 2,
@@ -3479,11 +3521,25 @@
     "volume_titles": "Controlling Privacy & Use of Data Assets - V1 | Privacy in Practice | Controlling Privacy & Use of Data Assets - V2 | Safeguarding the Future | Navigating the Cyber Maze"
   },
   {
+    "set_isbn": "9781041254133",
+    "set_isbn_title": "Handbook of Visual Optics Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032691442, 9781032691503",
+    "volume_titles": "Handbook of Visual Optics Volume One | Handbook of Visual Optics Volume Two"
+  },
+  {
     "set_isbn": "9781041279303",
     "set_isbn_title": "Integrative Approach to Fungal Infections Vol Set",
     "volume_count": 2,
     "associated_volumes": "9781041061380, 9781041269625",
     "volume_titles": "Integrative Approach to Fungal Infections Vol 1 | Integrative Approach to Fungal Infections Vol 2"
+  },
+  {
+    "set_isbn": "9781041323402",
+    "set_isbn_title": "Good Practices for Manufacturing Bundle Vol Set",
+    "volume_count": 3,
+    "associated_volumes": "9780367336271, 9781032524078, 9781041002499",
+    "volume_titles": "Good Laboratory Practice for Nonclinical Studies | Good Clinical Practices in Pharmaceuticals | Good Manufacturing Practices for Pharmaceuticals"
   },
   {
     "set_isbn": "9781041361657",
