@@ -3556,6 +3556,13 @@
     "volume_titles": "The Cambridge Handbook of Social Theory V1 | The Cambridge Handbook of Social Theory V2"
   },
   {
+    "set_isbn": "9781108011624",
+    "set_isbn_title": "The Chronicle of Peru 2 Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781108011617, 9781108013345",
+    "volume_titles": "The Second Part of the Chronicle of Peru | Travels of Pedro de Cieza de León A.D. 1532–50"
+  },
+  {
     "set_isbn": "9781108036207",
     "set_isbn_title": "The Saxons in England 2 Vol Set",
     "volume_count": 2,
@@ -3589,6 +3596,13 @@
     "volume_count": 3,
     "associated_volumes": "9781108475969, 9781108475983, 9781108476034",
     "volume_titles": "The Cambridge History of the Age of Atlantic Revolutions V | The Cambridge History of the Age of Atlantic Revolutions V | The Cambridge History of the Age of Atlantic Revolutions V"
+  },
+  {
+    "set_isbn": "9781108611336",
+    "set_isbn_title": "The Cambridge History of Socialism 2 Vol Set",
+    "volume_count": 2,
+    "associated_volumes": "9781108481342, 9781108481359",
+    "volume_titles": "The Cambridge History of Socialism | The Cambridge History of Socialism"
   },
   {
     "set_isbn": "9781108662017",
