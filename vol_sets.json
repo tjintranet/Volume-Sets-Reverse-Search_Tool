@@ -2331,6 +2331,13 @@
     "volume_titles": "Human Factors in Simulation & Training Vol 2 | Human Factors in Simulation & Training Vol 1"
   },
   {
+    "set_isbn": "9781032528588",
+    "set_isbn_title": "Target Tracking by Airborne Radar Systems 2 Volume Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032528625, 9781032528656",
+    "volume_titles": "Target Tracking V1 Single Target Tracking | Target Tracking V2 Fundamentals of Multitarget Tracking"
+  },
+  {
     "set_isbn": "9781032531229",
     "set_isbn_title": "Economic Development in Modern China Vol Set",
     "volume_count": 2,
@@ -3017,6 +3024,13 @@
     "volume_titles": "Plant Stress Tolerance | Plant Stress Tolerance"
   },
   {
+    "set_isbn": "9781032935744",
+    "set_isbn_title": "Electronic Design Automation 2 Volume Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032935706, 9781041002130",
+    "volume_titles": "Electronic Design Automation for IC Implementation Circui | Electronic Design Automation Volume 1"
+  },
+  {
     "set_isbn": "9781032944210",
     "set_isbn_title": "Signals and Systems A MATLAB Integrated Approach Vol Set",
     "volume_count": 2,
@@ -3106,6 +3120,13 @@
     "volume_count": 2,
     "associated_volumes": "9781032447193, 9781482231618",
     "volume_titles": "Web Hacking Arsenal | Ethical Hacking & Penetration Testing Guide"
+  },
+  {
+    "set_isbn": "9781032997841",
+    "set_isbn_title": "Engineering Thermodynamics 2 Volume Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032997865, 9781032997872",
+    "volume_titles": "Advanced Modeling of Thermodynamic Energy V1 | Advanced Modeling of Thermodynamic Energy V2"
   },
   {
     "set_isbn": "9781041004400",
@@ -3451,6 +3472,13 @@
     "volume_titles": "Addressing Obsessive Compulsive Behavior in Autism CBT | I Believe in Me Not OCB!"
   },
   {
+    "set_isbn": "9781041167396",
+    "set_isbn_title": "Spellmans Standard for Wastewater Operators 3 Volume Set",
+    "volume_count": 3,
+    "associated_volumes": "9781041167303, 9781041167327, 9781041167389",
+    "volume_titles": "Spellmans Standard Handbook for Wastewater Operators V3 | Spellmans Standard Handbook for Wastewater Operators V1 | Spellmans Standard Handbook for Wastewater Operators V2"
+  },
+  {
     "set_isbn": "9781041167693",
     "set_isbn_title": "Child-Parent Relationship Therapy (CPRT) Treatment Vol Set",
     "volume_count": 2,
@@ -3547,6 +3575,13 @@
     "volume_count": 2,
     "associated_volumes": "9781041333708, 9781041361633",
     "volume_titles": "Innovations in Maritime Tech & Engineering Vol 1 | Innovations in Maritime Tech & Engineering Vol 2"
+  },
+  {
+    "set_isbn": "9781041390596",
+    "set_isbn_title": "Pharmaceutical Computer Systems Validation 2 Volume Set",
+    "volume_count": 2,
+    "associated_volumes": "9781032981086, 9781041371151",
+    "volume_titles": "Pharmaceutical Computer Systems Validation Volume 1 | Pharmaceutical Computer Systems Validation Volume 2"
   },
   {
     "set_isbn": "9781107131705",
